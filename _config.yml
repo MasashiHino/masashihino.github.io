@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Masashi Hino (日野将志 in Japanese)"
+title                    : "Masashi Hino"
 title_separator          : "-"
 name                     : &name "Masashi Hino"
 description              : &description "This is a website of Masashi Hino (日野将志 in Japanese), a Ph.D. student in Economics at the Ohio State University."
