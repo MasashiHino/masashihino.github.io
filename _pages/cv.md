@@ -11,49 +11,51 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+Ph.D. in Economics, The Ohio State University, 2021 (expected)
+M.A. in Economics, Kyoto University, 2014.
+B.A. in Economics, Doshisha University, 2012.
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
-Skills
+Software
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* C/C++
+* MATLAB
+  * MEX compilation
+* LATEX
 
-Publications
+Working Papers
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Presentations
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+*2020
+  *Summer Workshop on Economic Theory, Virtual
+*2019
+  *DSGE workshop, Senshu University
+  *Macro Lunch Workshop, Hitotsubashi University
+  *Macroeconomic Workshop, Kyoto University
+  *Rokko Forum, Kobe University
+*2018
+  *Summer Workshop on Economic Thoery, Otaru Commerce University
+  *Rokko Forum, Kobe University
   
-Teaching
+Teaching Experience
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+*The Ohio State University (Graduate Teaching Assistant)
+  *2020 Spring: Comparative Institutional Analysis of Firms and Markets, Principles of Macroeconomics. 
+  *2019 Autumn: Principle of Microeconomics. 
+  *2019 Spring: Intermediate Microeconomic Theory. 
+  *2018 Autumn: Government and Business, World Economic Development History, Economic History of Americas. 
+  *2018 Spring: Intermediate Microeconomic Theory, Money and Banking. 
+  *2017 Autumn: Intermediate Microeconomic Theory, Survey of Mathematical Economics, Survey of Microeconomics. 
+*Kyoto University 
+  *2014 Spring: Advanced Microeconomics. 
+  *2013 Autumn: Macroeconomics. 
+  *2013 Spring: Microeconomics. 
+    
+Grant
 ======
-* Currently signed in to 43 different slack teams
+* Nakajima Foundation, 2015
