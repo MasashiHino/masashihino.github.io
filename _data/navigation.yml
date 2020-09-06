@@ -1,8 +1,6 @@
 # main links links
 main:
-  - title: "Papers"
-    url: /papers/
         
-  - title: "CV"
+  - title: "CV(HTML)"
     url: /cv/
     
