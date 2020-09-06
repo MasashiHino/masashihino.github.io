@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-Ph.D. in Economics, The Ohio State University, 2021 (expected)
-M.A. in Economics, Kyoto University, 2014.
-B.A. in Economics, Doshisha University, 2012.
+* Ph.D. in Economics, The Ohio State University, 2021 (expected)
+* M.A. in Economics, Kyoto University, 2014.
+* B.A. in Economics, Doshisha University, 2012.
 
   
 Software
