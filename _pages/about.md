@@ -14,18 +14,23 @@ Macroeconomics, Macroeconomics, Consumption, Computational Economics, Public Eco
 
 Contact
 ======
-Email: m.hino.0323[at]gmail.com
+* Email: m.hino.0323[at]gmail.com
 
-Email (University): hino.4[at]buckeyemail.osu.edu
+* Email (University): hino.4[at]buckeyemail.osu.edu
 
-Mailing Address: Department of Economics, Ohio State University
+* Mailing Address: Department of Economics, Ohio State University
 
-410 Arps Hall, 1945 N High St
+  410 Arps Hall, 1945 N High St
 
-Columbus, OH 43210
+  Columbus, OH 43210
+
+CV
+======
+[pdf](https://masashihino.github.io/files/CV_Hino.pdf)
 
 Research Papers:
 ======
+[A Model of Anticipated Consumption Tax Changes](https://masashihino.github.io/files/Hino_CT_Irr_paper_2020September.pdf) 
 
 Education:
 ======
