@@ -1,12 +1,15 @@
 ---
 permalink: /
-title: "Masashi Hino"
+title: "Website of Masashi Hino"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+This is a back-up website of Masashi Hino. Please visit [my primary website](https://sites.google.com/view/masashi-hino).
+(In future, I may move from google site to github.)
 
 Research Interests:
 ======
