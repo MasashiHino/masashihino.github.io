@@ -37,6 +37,6 @@ Research Papers:
 
 Education:
 ======
-Ph.D. in Economics (Expected in 2021). THe Ohio State University
-M.A. in Economics in 2014. Kyoto University (in Japan)
-B.A. in Economics in 2012. Doshisha University (in Japan)
+* Ph.D. in Economics (Expected in 2021). THe Ohio State University
+* M.A. in Economics in 2014. Kyoto University (in Japan)
+* B.A. in Economics in 2012. Doshisha University (in Japan)
