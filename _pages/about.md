@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Website of Masashi Hino"
+title: "Masashi Hino's website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
