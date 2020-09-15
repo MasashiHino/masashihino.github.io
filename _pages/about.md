@@ -7,9 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am a Ph.D. candidate at the Ohio State University.
 
 This is a back-up website of Masashi Hino. Please visit [my primary website](https://sites.google.com/view/masashi-hino).
-(In future, I may move from google site to github.)
+(In future, I may move from the google site to this github.)
 
 Research Interests:
 ======
