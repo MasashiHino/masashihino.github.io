@@ -62,13 +62,10 @@ Grant
 
 References
 ======
-* Professor Julia Thomas (chair)
-  thomas.2108[at]osu.edu
+* Professor Julia Thomas (chair): thomas.2108[at]osu.edu
   
-* Professor Aubhik Khan 
-  khan.247[at]osu.edu
+* Professor Aubhik Khan:  khan.247[at]osu.edu
 
-* Professor Pok-sang Lam
-  lam.1@osu.edu
+* Professor Pok-sang Lam: lam.1[at]osu.edu
 
 
