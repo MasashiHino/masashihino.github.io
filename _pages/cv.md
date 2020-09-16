@@ -15,19 +15,14 @@ Education
 * M.A. in Economics, Kyoto University, 2014.
 * B.A. in Economics, Doshisha University, 2012.
 
-  
-Software
-======
-* C/C++
-* MATLAB
-  * MEX compilation
-* LATEX
 
-Working Papers
+Research Papers:
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* **Working Ppaers**
+
+  * *[A Model of Anticipated Consumption Tax Changes](https://masashihino.github.io/files/Hino_CT_Irr_paper_2020September.pdf)* (job market paper, slides will be uploaded soon)
+* **Work in Progress**
+  * *Interest Rate Elasticity of Aggregate Durables and Life-cycle*
   
 Presentations
 ======
@@ -59,6 +54,13 @@ Teaching Experience
 Grant
 ======
 * Nakajima Foundation, 2015
+
+Software
+======
+* C/C++
+* MATLAB
+  * MEX compilation
+* LATEX
 
 References
 ======
