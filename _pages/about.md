@@ -13,7 +13,7 @@ I am a Ph.D. candidate at the Ohio State University.
 
 Research Interests:
 ======
-Macroeconomics, Macroeconomics, Consumption, Computational Economics, Public Economics.
+Macroeconomics, Consumption, Computational Economics, Public Economics.
 
 Contact
 ======
