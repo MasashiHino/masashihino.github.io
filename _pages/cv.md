@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[pdf version](https://masashihino.github.io/files/CV_Hino.pdf)
+
 Education
 ======
 * Ph.D. in Economics, The Ohio State University, 2021 (expected)
