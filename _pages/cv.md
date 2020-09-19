@@ -9,25 +9,22 @@ redirect_from:
 
 {% include base_path %}
 
+[pdf version](https://masashihino.github.io/files/CV_Hino.pdf)
+
 Education
 ======
 * Ph.D. in Economics, The Ohio State University, 2021 (expected)
 * M.A. in Economics, Kyoto University, 2014.
 * B.A. in Economics, Doshisha University, 2012.
 
-  
-Software
-======
-* C/C++
-* MATLAB
-  * MEX compilation
-* LATEX
 
-Working Papers
+Research Papers:
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* **Working Ppaers**
+
+  * *[A Model of Anticipated Consumption Tax Changes](https://masashihino.github.io/files/Hino_CT_Irr_paper_2020September.pdf)* (job market paper, slides will be uploaded soon)
+* **Work in Progress**
+  * *Interest Rate Elasticity of Aggregate Durables and Life-cycle*
   
 Presentations
 ======
@@ -59,3 +56,20 @@ Teaching Experience
 Grant
 ======
 * Nakajima Foundation, 2015
+
+Software
+======
+* C/C++
+* MATLAB
+  * MEX compilation
+* LATEX
+
+References
+======
+* Professor Julia Thomas (chair): thomas.2108[at]osu.edu
+  
+* Professor Aubhik Khan:  khan.247[at]osu.edu
+
+* Professor Pok-sang Lam: lam.1[at]osu.edu
+
+
