@@ -19,7 +19,7 @@ Contact
 ======
 * Email: m.hino.0323[at]gmail.com
 
-* Email (University): hino.4[at]buckeyemail.osu.edu
+* Email (University): hino.4[at]buckeyemail.osu.edu:  "hino.4@buckeyemail.osu.edu"
 
 * Mailing Address: Department of Economics, Ohio State University
 
