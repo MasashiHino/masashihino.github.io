@@ -17,9 +17,9 @@ Macroeconomics, Consumption, Computational Economics, Public Economics.
 
 Contact
 ======
-* Email: m.hino.0323[at]gmail.com
+* **Email** (University): hino.4[at]buckeyemail.osu.edu
 
-* Email (University): hino.4[at]buckeyemail.osu.edu
+* **Email**: m.hino.0323[at]gmail.com
 
 * Mailing Address: Department of Economics, Ohio State University
 
