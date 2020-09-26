@@ -71,5 +71,3 @@ References
 * Professor Aubhik Khan:  khan.247[at]osu.edu
 
 * Professor Pok-sang Lam: lam.1[at]osu.edu
-
-
