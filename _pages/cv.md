@@ -11,14 +11,14 @@ redirect_from:
 
 [pdf version](https://masashihino.github.io/files/CV_Hino.pdf)
 
-Education
+# Education
 ======
 * Ph.D. in Economics, The Ohio State University, 2021 (expected)
 * M.A. in Economics, Kyoto University, 2014.
 * B.A. in Economics, Doshisha University, 2012.
 
 
-Research Papers:
+# Research Papers:
 ======
 * **Working Ppaers**
 
@@ -26,7 +26,7 @@ Research Papers:
 * **Work in Progress**
   * *Interest Rate Elasticity of Aggregate Durables and Life-cycle*
   
-Presentations
+# Presentations
 ======
 * 2020
   * Summer Workshop on Economic Theory, Virtual
