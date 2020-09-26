@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Ph.D. candidate at the Ohio State University.
+I am a Ph.D. candidate at the Ohio State University. I am on the job market in 2020-2021, and will be available for the interviews at the viurtual ASSA meetings in January.
 
 
 
