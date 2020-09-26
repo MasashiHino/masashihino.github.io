@@ -39,7 +39,7 @@ Presentations
   * Summer Workshop on Economic Thoery, Otaru Commerce University
   * Rokko Forum, Kobe University
   
-# Teaching Experience
+## Teaching Experience
 * The Ohio State University (Graduate Teaching Assistant)
   * 2020 Spring: Comparative Institutional Analysis of Firms and Markets, Principles of Macroeconomics. 
   * 2019 Autumn: Principle of Microeconomics. 
