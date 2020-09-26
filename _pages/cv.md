@@ -22,7 +22,7 @@ Research Papers:
 ======
 * **Working Ppaers**
 
-  * *[A Model of Anticipated Consumption Tax Changes](https://masashihino.github.io/files/Hino_CT_Irr_paper_2020September.pdf)* (job market paper, slides will be uploaded soon)
+  * *[A Model of Anticipated Consumption Tax Changes](https://masashihino.github.io/files/Hino_CT_Irr_paper_2020September.pdf)* (<span style="color:green">green and *emphasized*</span>job market paper, slides will be uploaded soon)
 * **Work in Progress**
   * *Interest Rate Elasticity of Aggregate Durables and Life-cycle*
   
