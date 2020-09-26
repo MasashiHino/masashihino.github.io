@@ -18,7 +18,7 @@ Education
 * B.A. in Economics, Doshisha University, 2012.
 
 
-Research Papers:<span style="color: red; ">red</span>
+Research Papers: <font color="green"> Some green text </font>
 ======
 * **Working Ppaers**
 
