@@ -30,7 +30,7 @@ Presentations
 ======
 * 2020
   * Happy Hour Seminar, Virtual
-  //* Hitotsubashi Univ, Virtual
+  #* Hitotsubashi Univ, Virtual
   * Summer Workshop on Economic Theory, Virtual
   
 * 2019
