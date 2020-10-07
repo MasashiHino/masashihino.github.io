@@ -29,18 +29,18 @@ Research Papers:
 Presentations
 ======
 * 2020
-  * Happy Hour Seminar, Virtual
+  * [Happy Hour Seminar, Virtual](https://sites.google.com/view/happyhourseminar/home) 
   <!--- * Hitotsubashi Univ, Virtual-->
-  * Summer Workshop on Economic Theory, Virtual
+  * [Summer Workshop on Economic Theory, Virtual](https://sites.google.com/view/swetotaruhokudai/swet2020/%E8%B2%A1%E6%94%BF)　
   
 * 2019
-  * DSGE workshop, Senshu University
+  * [DSGE workshop, Senshu University](https://www.kengonutahara.com/dsge-workshop)
   * Macro Lunch Workshop, Hitotsubashi University
-  * Macroeconomic Workshop, Kyoto University
-  * Rokko Forum, Kobe University
+  * [Macroeconomic Workshop, Kyoto University](https://sites.google.com/site/kyotomacroecon/)
+  * [Rokko Forum, Kobe University](http://www.econ.kobe-u.ac.jp/activity/seminar/rokko/rf2019.html)
 * 2018
   * Summer Workshop on Economic Thoery, Otaru Commerce University
-  * Rokko Forum, Kobe University
+  * [Rokko Forum, Kobe University](http://www.econ.kobe-u.ac.jp/activity/seminar/rokko/rf2018.html)
   
 Teaching Experience
 ======
