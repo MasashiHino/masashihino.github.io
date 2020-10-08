@@ -11,7 +11,6 @@ redirect_from:
 
 [pdf version of cv](https://masashihino.github.io/files/CV_Hino.pdf)
 
-[My Website on the Department](https://economics.osu.edu/people/hino.4)
 
 Education
 ======
