@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-[pdf version](https://masashihino.github.io/files/CV_Hino.pdf)
+[pdf version of cv](https://masashihino.github.io/files/CV_Hino.pdf)
+
 [My Website on the Department](https://economics.osu.edu/people/hino.4)
 
 Education
