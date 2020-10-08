@@ -10,12 +10,13 @@ redirect_from:
 {% include base_path %}
 
 [pdf version](https://masashihino.github.io/files/CV_Hino.pdf)
+[My Website on the Department](https://economics.osu.edu/people/hino.4)
 
 Education
 ======
 * Ph.D. in Economics, The Ohio State University, 2021 (expected)
-* M.A. in Economics, Kyoto University, 2014.
-* B.A. in Economics, Doshisha University, 2012.
+* M.A. in Economics, [Kyoto University](https://www.econ.kyoto-u.ac.jp/en/), 2014.
+* B.A. in Economics, [Doshisha University](https://www.econ.doshisha.ac.jp/en/), 2012.
 
 
 Research Papers:
