@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[pdf version of cv](https://masashihino.github.io/files/CV_Hino.pdf)
+[pdf version of cv](https://masashihino.github.io/files/Hino_CV.pdf)
 
 
 Education
