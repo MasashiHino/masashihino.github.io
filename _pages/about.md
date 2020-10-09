@@ -45,4 +45,3 @@ Education:
 * M.A. in Economics in 2014. Kyoto University (in Japan)
 * B.A. in Economics in 2012. Doshisha University (in Japan)
 
-[my old website](https://sites.google.com/view/masashi-hino).
