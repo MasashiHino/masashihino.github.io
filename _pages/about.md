@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Masashi Hino's website"
+title: "Masashi Hino's website (日野将志 in Japanese)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-I am a Ph.D. candidate at the Ohio State University. I am on the job market in 2020-2021, and will be available for the interviews at the 2021 viurtual ASSA meetings and the virtual 2020 EEA Meetings.
+I am a Ph.D. candidate at the Ohio State University. I am on the job market in 2020-2021, and will be available for the interviews at the 2021 viurtual ASSA meetings and the virtual 2020 EEA Meetings. 
 
 
 
