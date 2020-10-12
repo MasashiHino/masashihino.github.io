@@ -40,8 +40,8 @@ Research Papers:
   * *Interest Rate Elasticity of Aggregate Durables and Life-cycle*
 
 Education:
-======
-* Ph.D. in Economics (Expected in 2021). THe Ohio State University
-* M.A. in Economics in 2014. Kyoto University (in Japan)
-* B.A. in Economics in 2012. Doshisha University (in Japan)
+=====
+* Ph.D. in Economics (Expected in 2021). **The Ohio State University**
+* M.A. in Economics in 2014. **Kyoto University** (Japan)
+* B.A. in Economics in 2012. **Doshisha University** (Japan)
 
