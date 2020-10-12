@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Masashi Hino's website (日野将志 in Japanese)"
+title: "Masashi Hino's website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
