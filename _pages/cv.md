@@ -14,9 +14,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Economics, The Ohio State University, 2021 (expected)
-* M.A. in Economics, [Kyoto University](https://www.econ.kyoto-u.ac.jp/en/), 2014.
-* B.A. in Economics, [Doshisha University](https://www.econ.doshisha.ac.jp/en/), 2012.
+* Ph.D. in Economics, 2021 (expected), The Ohio State University.
+* M.A. in Economics, 2014, [Kyoto University](https://www.econ.kyoto-u.ac.jp/en/).
+* B.A. in Economics, 2012, [Doshisha University](https://www.econ.doshisha.ac.jp/en/).
 
 
 Research Papers:
