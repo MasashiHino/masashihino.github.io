@@ -8,6 +8,7 @@ date: 2021-04-01
 This is a webpage for Foundamental Macroeconomics (基礎マクロ) at Hitotsubashi University.  
 
 # Important Info
+
 * **syllabus**: pdf (in Japanese. to be uploaded), or see below for English version
 * **textbook**: [A Course in Modern Macroeconomics](https://sites.google.com/view/pkurlat/a-course-in-modern-macroeconomics) written by Prof. Pablo Kurlat
   * The textbook is only supplemental to the course.
@@ -18,6 +19,7 @@ This is a webpage for Foundamental Macroeconomics (基礎マクロ) at Hitotsuba
   * are taking foundamental microeconomics and econometrics (基礎ミクロ・基礎計量)
   
 # Syllabus   
+
 * week 1. intro, math review & basic measurement 
 * week 2. Households: consumptions and savings
 * week 3. Households: labor hour choice
