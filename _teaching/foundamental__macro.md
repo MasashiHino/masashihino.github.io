@@ -1,10 +1,20 @@
 ---
 title: "Teaching(Japanese)"
 collection: teaching
+layout: archive
+permalink: /teaching/
+author_profile: true
+redirect_from:
+  - /teaching
 venue: "Hitotsubashi Univ, Department of Economics"
 date: 2021-04-01
 ---
 
+
+---
+---
+
+{% include base_path %}
 This is a webpage for Foundamental Macroeconomics (基礎マクロ) at Hitotsubashi University.  
 
 # Important Info
