@@ -30,5 +30,5 @@ This is a webpage for Foundamental Macroeconomics (基礎マクロ) at Hitotsuba
 * week 10. Money 
 * week 11. Price Level and Inflation
 * week 12. IS-LM based on NK
-* week 13. IS-LM based on NK (cont'd) 
+* week 13. IS-LM based on NK (cont'd) and **Final**
 
