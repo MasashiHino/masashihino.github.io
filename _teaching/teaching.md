@@ -17,15 +17,12 @@ This is a webpage for Foundamental Macroeconomics (基礎マクロ) at Hitotsuba
 # Important Info
 
 * **syllabus**: pdf (in Japanese. to be uploaded), or see below for English version
-* **textbook**: [A Course in Modern Macroeconomics](https://sites.google.com/view/pkurlat/a-course-in-modern-macroeconomics) written by Prof. Pablo Kurlat
-  * The textbook is only supplemental to the course.
-   * This textbook is the best undergrad macroeconomics textbook among the ones I have read. There are no equivalent-level or substitutable textbooks in Japanese. Highly recommend.
  * **grades**: midterm and final exams (50% each)
  * **prerequisite**: I would like to assume that students 
   * have taken introductory economics (入門経済学) and some other 100-level courses
   * are taking foundamental microeconomics and econometrics (基礎ミクロ・基礎計量)
   
-# Syllabus   
+# Course Schedule   
 
 * week 1. intro, math review & basic measurement 
 * week 2. Households: consumptions and savings
