@@ -12,7 +12,7 @@ date: 2021-04-01
 
 {% include base_path %}
 
-This is a webpage for Foundamental Macroeconomics (基礎マクロ) at Hitotsubashi University.  
+This is a webpage for "Foundamental Macroeconomics (基礎マクロ)" at Hitotsubashi University.  
 
 # Important Info
 
