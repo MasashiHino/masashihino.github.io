@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Masashi Hino"
 title_separator          : "-"
 name                     : &name "Masashi Hino"
-description              : &description "Masashi Hino (日野将志 in Japanese), the photo taken in Oct 2020"
+description              : &description "Masashi Hino (日野将志 in Japanese)"
 url                      : https://masashihino.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "masashihino/masashihino.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Masashi Hino"
   avatar           : "profile1.png"
-  bio              : "Masashi Hino (日野将志 in Japanese)"
+  bio              : "Masashi Hino (日野将志 in Japanese). The photo taken in Oct 2020"
   location         : 
   employer         :
   pubmed           : 
