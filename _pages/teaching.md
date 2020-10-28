@@ -44,4 +44,4 @@ This is a webpage for "Foundamental Macroeconomics (基礎マクロ)" at Hitotsu
 
 ```diff 
 - midterm 
-@@
+
