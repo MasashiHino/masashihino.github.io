@@ -34,9 +34,9 @@ This is a webpage for "Foundamental Macroeconomics (基礎マクロ)" at Hitotsu
 * week 4. Firm: investment
 * week 5. Equilibrium: GE (two period Lucas tree, if time permitting)
 * week 6. Business Cycle Theory: Two periods RBC
-* week 7. Business Cycle Theory:Two periods RBC (cont'd) and  
+* week 7. Business Cycle Theory:Two periods RBC (cont'd) 
   ```diff 
-  + midterm exam
+  + **midterm exam**
 * week 8. Economic Growth: Solow Model
 * week 9. Economic Growth: Solow Model 
 * week 10. Money 
@@ -44,6 +44,6 @@ This is a webpage for "Foundamental Macroeconomics (基礎マクロ)" at Hitotsu
 * week 12. IS-LM based on NK
 * week 13. IS-LM based on NK (cont'd)
   ```diff 
-  + final exam
+  + **final exam**
 
 
