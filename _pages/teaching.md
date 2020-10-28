@@ -33,10 +33,10 @@ This is a webpage for "Foundamental Macroeconomics (基礎マクロ)" at Hitotsu
 * week 3. Households: labor hour choice
 * week 4. Firm: investment
 * week 5. Equilibrium: GE (two period Lucas tree, if time permitting)
-* week 6. Solow Model
-* week 7. Solow Model and **Midterm**
-* week 8. Two periods RBC
-* week 9. Two periods RBC (cont'd)
+* week 6. Business Cycle Theory: Two periods RBC
+* week 7. Business Cycle Theory:Two periods RBC (cont'd) and **Midterm**
+* week 8. Economic Growth: Solow Model
+* week 9. Economic Growth: Solow Model 
 * week 10. Money 
 * week 11. Price Level 
 * week 12. IS-LM based on NK
