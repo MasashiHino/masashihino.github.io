@@ -42,7 +42,8 @@ This is a webpage for "Foundamental Macroeconomics (基礎マクロ)" at Hitotsu
 * week 12. IS-LM based on NK
 * week 13. IS-LM based on NK (cont'd) and **Final**
 
-```diff midterm @@
+```diff 
+-midterm @@
 - text in red
 + text in green
 ! text in orange
