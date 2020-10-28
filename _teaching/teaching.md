@@ -19,8 +19,8 @@ This is a webpage for "Foundamental Macroeconomics (基礎マクロ)" at Hitotsu
 * **syllabus**: pdf (in Japanese. to be uploaded), or see below for English version
  * **grades**: midterm and final exams (50% each)
  * **prerequisite**: I would like to assume that students 
-  * have taken introductory economics (入門経済学) and some other 100-level courses
-  * are taking foundamental microeconomics and econometrics (基礎ミクロ・基礎計量)
+   * have taken introductory economics (入門経済学) and some other 100-level courses
+   * are taking foundamental microeconomics and econometrics (基礎ミクロ・基礎計量)
   
 # Course Schedule   
 
