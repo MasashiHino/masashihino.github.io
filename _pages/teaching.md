@@ -42,6 +42,3 @@ This is a webpage for "Foundamental Macroeconomics (基礎マクロ)" at Hitotsu
 * week 12. IS-LM based on NK
 * week 13. IS-LM based on NK (cont'd) and **Final**
 
-<div class="text-purple">
-  This text is purple, <a href="#" class="text-inherit">including the link</a>
-</div>
