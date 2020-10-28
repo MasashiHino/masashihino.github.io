@@ -20,13 +20,13 @@ This is a webpage for "Foundamental Macroeconomics (基礎マクロ)" at Hitotsu
 
 # Important Info
 
-* **syllabus**: pdf (in Japanese. to be uploaded), or see below for English version
+* **syllabus**: pdf (in Japanese, to be uploaded), or see below for English version
  * **grades**: midterm and final exams (50% each)
  * **prerequisite**: I would like to assume that students 
    * have taken introductory economics (入門経済学) and some other 100-level courses
    * are taking foundamental microeconomics and econometrics (基礎ミクロ・基礎計量)
   
-# Course Schedule   
+# Course Schedule (Tentative)  
 
 * week 1. intro, math review & basic measurement 
 * week 2. Households: consumptions and savings
@@ -38,6 +38,6 @@ This is a webpage for "Foundamental Macroeconomics (基礎マクロ)" at Hitotsu
 * week 8. Two periods RBC
 * week 9. Two periods RBC (cont'd)
 * week 10. Money 
-* week 11. Price Level and Inflation
+* week 11. Price Level 
 * week 12. IS-LM based on NK
 * week 13. IS-LM based on NK (cont'd) and **Final**
