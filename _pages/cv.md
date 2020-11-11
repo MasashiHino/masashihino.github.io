@@ -57,8 +57,9 @@ Teaching Experience
   * 2013 Autumn: Macroeconomics. 
   * 2013 Spring: Microeconomics. 
     
-Grant
+Grant and Award
 ======
+* [Moriguchi Prize](https://www.iser.osaka-u.ac.jp/moriguchi/moriguchi_en.html), 2020. Finalist (The awardee is to be determined on Dec 7)
 * Nakajima Foundation, 2015
 
 Software
