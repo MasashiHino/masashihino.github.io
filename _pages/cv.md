@@ -31,7 +31,7 @@ Presentations
 ======
 * 2020
   * Macro Conference, (scheduled)
-  * [Seminar for Moriguchi Prize](https://www.iser.osaka-u.ac.jp/seminar/index.html), (scheduled) 
+  * [ISER Moriguchi Prize Presentations](https://www.iser.osaka-u.ac.jp/seminar/index.html), (scheduled) 
   * [Happy Hour Seminar, Virtual](https://sites.google.com/view/happyhourseminar/home) 
   <!--- * Hitotsubashi Univ, Virtual-->
   * [Summer Workshop on Economic Theory, Virtual](https://sites.google.com/view/swetotaruhokudai/swet2020/%E8%B2%A1%E6%94%BF)　
