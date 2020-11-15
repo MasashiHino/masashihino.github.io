@@ -30,6 +30,7 @@ Research Papers:
 Presentations
 ======
 * 2020
+  * Macro Conference, (scheduled)
   * [Happy Hour Seminar, Virtual](https://sites.google.com/view/happyhourseminar/home) 
   <!--- * Hitotsubashi Univ, Virtual-->
   * [Summer Workshop on Economic Theory, Virtual](https://sites.google.com/view/swetotaruhokudai/swet2020/%E8%B2%A1%E6%94%BF)　
