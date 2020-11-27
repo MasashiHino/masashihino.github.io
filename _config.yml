@@ -75,15 +75,14 @@ social:
 analytics: 
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-  google_analytics: 
-    tracking_id          :UA-108430471-2
+    tracking_id          : "UA-108430471-2"
 
 
 # Site Author
 author:
   name             : "Masashi Hino"
   avatar           : "profile1.png"
-  bio              : "Masashi Hino (日野将志 in Japanese)"
+  bio              : "Masashi Hino (日野将志 in Japanese). The photo taken in Oct 2020"
   location         : 
   employer         :
   pubmed           : 

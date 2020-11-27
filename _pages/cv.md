@@ -14,22 +14,25 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Economics, The Ohio State University, 2021 (expected)
-* M.A. in Economics, [Kyoto University](https://www.econ.kyoto-u.ac.jp/en/), 2014.
-* B.A. in Economics, [Doshisha University](https://www.econ.doshisha.ac.jp/en/), 2012.
+* Ph.D. in Economics, 2021 (expected), The Ohio State University.
+* M.A. in Economics, 2014, [Kyoto University](https://www.econ.kyoto-u.ac.jp/en/).
+* B.A. in Economics, 2012, [Doshisha University](https://www.econ.doshisha.ac.jp/en/).
 
 
 Research Papers:
 ======
 * **Working Ppaers**
 
-  * ***[A Model of Anticipated Consumption Tax Changes](https://masashihino.github.io/files/Hino_CT_Irr_paper_2020September.pdf)*** (**job market paper**, slides will be uploaded soon)
+  * ***[A Model of Anticipated Consumption Tax Changes](https://masashihino.github.io/files/Hino_CT_Irr_paper_2020October.pdf)*** (**job market paper**, slides will be uploaded soon)
 * **Work in Progress**
   * *Interest Rate Elasticity of Aggregate Durables and Life-cycle*
   
 Presentations
 ======
 * 2020
+  * Macro Conference, (scheduled)
+  * [ISER Moriguchi Prize Presentations](https://www.iser.osaka-u.ac.jp/seminar/index.html), (scheduled) 
+  * Hitotsubashi University
   * [Happy Hour Seminar, Virtual](https://sites.google.com/view/happyhourseminar/home) 
   <!--- * Hitotsubashi Univ, Virtual-->
   * [Summer Workshop on Economic Theory, Virtual](https://sites.google.com/view/swetotaruhokudai/swet2020/%E8%B2%A1%E6%94%BF)　
@@ -57,8 +60,9 @@ Teaching Experience
   * 2013 Autumn: Macroeconomics. 
   * 2013 Spring: Microeconomics. 
     
-Grant
+Grant and Award
 ======
+* [Moriguchi Prize](https://www.iser.osaka-u.ac.jp/moriguchi/moriguchi_en.html), 2020. Nominated (The awardee is to be determined on Dec 7)
 * Nakajima Foundation, 2015
 
 Software
@@ -70,8 +74,8 @@ Software
 
 References
 ======
-* Professor **Julia Thomas** (chair): [thomas.2108[at]osu.edu](thomas.2108@osu.edu)
+* Professor **Julia Thomas** (chair): [thomas.2108[at]osu.edu](mailto:thomas.2108@osu.edu)
   
-* Professor **Aubhik Khan**:  [khan.247[at]osu.edu](khan.247@osu.edu)
+* Professor **Aubhik Khan**:  [khan.247[at]osu.edu](mailto:khan.247@osu.edu)
 
-* Professor **Pok-sang Lam**: [lam.1[at]osu.edu](lam.1@osu.edu)
+* Professor **Pok-sang Lam**: [lam.1[at]osu.edu](mailto:lam.1@osu.edu)

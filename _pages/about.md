@@ -7,13 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Ph.D. candidate at the Ohio State University. I am on the job market in 2020-2021, and will be available for the interviews at the 2021 viurtual ASSA meetings and the virtual 2020 EEA Meetings. 
-
+I am a Ph.D. candidate at the Ohio State University.
 
 
 Research Interests:
 ======
-Macroeconomics, Consumption, Computational Economics, Public Economics.
+Macroeconomics, Consumptions (Durables), Computational Economics, Public Economics.
 
 Contact
 ======
@@ -35,7 +34,9 @@ Research Papers:
 ======
 * **Working Ppaers**
 
-  * *[A Model of Anticipated Consumption Tax Changes](https://masashihino.github.io/files/Hino_CT_Irr_paper_2020October.pdf)* (**job market paper**)
+  * *[A Model of Anticipated Consumption Tax Changes](https://masashihino.github.io/files/Hino_CT_Irr_paper_2020Nov.pdf)* (**job market paper**)
+  
+  
 * **Work in Progress**
   * *Interest Rate Elasticity of Aggregate Durables and Life-cycle*
 
