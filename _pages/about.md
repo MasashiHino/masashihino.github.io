@@ -34,9 +34,8 @@ Research Papers:
 ======
 * **Working Ppaers**
 
-  * *[A Model of Anticipated Consumption Tax Changes](https://masashihino.github.io/files/Hino_CT_Irr_paper_2020October.pdf)* (**job market paper**)
+  * *[A Model of Anticipated Consumption Tax Changes](https://masashihino.github.io/files/Hino_CT_Irr_paper_2020Nov.pdf)* (**job market paper**)
   
-    I study the household expenditures responses to the preannounced consumption tax changes using a model of durables.
   
 * **Work in Progress**
   * *Interest Rate Elasticity of Aggregate Durables and Life-cycle*
