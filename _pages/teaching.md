@@ -22,26 +22,27 @@ This is a webpage for "Foundamental Macroeconomics (基礎マクロ)" at Hitotsu
 
 * **syllabus**: pdf (in Japanese, to be uploaded), or see below for English version
  * **grades**: midterm and final exams (50% each)
+  * I will post practice problem sets for students' sef-study (no submission).  
  * **prerequisite**: I would like to assume that students 
    * have taken introductory economics (入門経済学) and some other 100-level courses
    * are taking foundamental microeconomics and econometrics (基礎ミクロ・基礎計量)
   
 # Course Schedule (Tentative)  
 
-* week 1. intro, math review & basic measurement 
-* week 2. Households: consumptions and savings
-* week 3. Households: labor hour choice
-* week 4. Firm: investment
-* week 5. Equilibrium: GE (two period Lucas tree, if time permitting)
-* week 6. Business Cycle Theory: Two periods RBC
-* week 7. Business Cycle Theory:Two periods RBC (cont'd) 
+* week 1. intro, math review   
+* week 2. basic measurement
+* week 3. Households: consumptions and savings
+* week 4. Households: labor hour choice
+* week 5. Firm: investment
+* week 6. Equilibrium: GE, RBC intro, asset pricing
+* week 7. Equilibrium: cont'd
   * **midterm exam**
 * week 8. Economic Growth: Solow Model
 * week 9. Economic Growth: Solow Model 
 * week 10. Money 
-* week 11. Price Level 
+* week 11. IS-LM based on NK 
 * week 12. IS-LM based on NK
-* week 13. IS-LM based on NK (cont'd)
+* week 13. AD-AS based on NK (cont'd)
   * **final exam**
 
 
