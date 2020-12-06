@@ -14,7 +14,7 @@ Research Interests:
 ======
 Macroeconomics, Consumptions (Durables), Computational Economics, Public Economics.
 
-Contact
+Contact:
 ======
 * **Email** (University): [hino.4[at]buckeyemail.osu.edu](mailto:hino.4@buckeyemail.osu.edu)
 
@@ -26,7 +26,7 @@ Contact
 
   Columbus, OH 43210
 
-CV
+CV:
 ======
 ([pdf version](https://masashihino.github.io/files/Hino_CV.pdf)), ([html version](https://masashihino.github.io/cv/))
 
