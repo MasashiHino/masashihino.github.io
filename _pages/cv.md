@@ -12,7 +12,7 @@ redirect_from:
 [pdf version of cv](https://masashihino.github.io/files/Hino_CV.pdf)
 
 
-Education
+Education:
 ======
 * Ph.D. in Economics, 2021 (expected), The Ohio State University.
 * M.A. in Economics, 2014, [Kyoto University](https://www.econ.kyoto-u.ac.jp/en/).
@@ -27,7 +27,7 @@ Research Papers:
 * **Work in Progress**
   * *Interest Rate Elasticity of Aggregate Durables and Life-cycle*
   
-Presentations
+Presentations:
 ======
 * 2020
   * Macro Conference, (scheduled)
@@ -46,7 +46,7 @@ Presentations
   * Summer Workshop on Economic Thoery, Otaru Commerce University
   * [Rokko Forum, Kobe University](http://www.econ.kobe-u.ac.jp/activity/seminar/rokko/rf2018.html)
   
-Teaching Experience
+Teaching Experience:
 ======
 * The Ohio State University (Graduate Teaching Assistant)
   * 2020 Spring: Comparative Institutional Analysis of Firms and Markets, Principles of Macroeconomics. 
@@ -60,19 +60,19 @@ Teaching Experience
   * 2013 Autumn: Macroeconomics. 
   * 2013 Spring: Microeconomics. 
     
-Grant and Award
+Grant and Award:
 ======
 * [Moriguchi Prize](https://www.iser.osaka-u.ac.jp/moriguchi/moriguchi_en.html), 2020. Nominated (The awardee is to be determined on Dec 7)
 * Nakajima Foundation, 2015
 
-Software
+Software:
 ======
 * C/C++
 * MATLAB
   * MEX compilation
 * LATEX
 
-References
+References:
 ======
 * Professor **Julia Thomas** (chair): [thomas.2108[at]osu.edu](mailto:thomas.2108@osu.edu)
   
