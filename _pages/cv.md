@@ -62,7 +62,7 @@ Teaching Experience:
     
 Grant and Award:
 ======
-* [Moriguchi Prize](https://www.iser.osaka-u.ac.jp/moriguchi/moriguchi_en.html), 2020. Nominated (The awardee is to be determined on Dec 7)
+* [Moriguchi Prize](https://www.iser.osaka-u.ac.jp/moriguchi/moriguchi_en.html), 2020.
 * Nakajima Foundation, 2015
 
 Software:
