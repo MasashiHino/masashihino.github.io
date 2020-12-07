@@ -31,7 +31,7 @@ Presentations:
 ======
 * 2020
   * Macro Conference, (scheduled)
-  * [ISER Moriguchi Prize Presentations](https://www.iser.osaka-u.ac.jp/seminar/index.html), (scheduled) 
+  * [ISER Moriguchi Prize Presentations](https://www.iser.osaka-u.ac.jp/seminar/index.html) 
   * Hitotsubashi University
   * [Happy Hour Seminar, Virtual](https://sites.google.com/view/happyhourseminar/home) 
   <!--- * Hitotsubashi Univ, Virtual-->
