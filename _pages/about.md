@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Ph.D. candidate at the Ohio State University.
+I am currently a Ph.D. candidate at the Ohio State University.
 
 I will join Hitotsubashi University as an Assistant Professor in 2021 Spring. 
 
