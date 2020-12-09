@@ -9,6 +9,8 @@ redirect_from:
 ---
 I am a Ph.D. candidate at the Ohio State University.
 
+I am going to join Hitotsubashi University as an Assistant Professor in 2021 Spring. 
+
 
 Research Interests:
 ======
