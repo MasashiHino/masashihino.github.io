@@ -56,7 +56,7 @@ Teaching Experience:
   * 2018 Spring: Intermediate Microeconomic Theory, Money and Banking. 
   * 2017 Autumn: Intermediate Microeconomic Theory, Survey of Mathematical Economics, Survey of Microeconomics. 
 * Kyoto University 
-  * 2014 Spring: Advanced Microeconomics. 
+  * 2014/2015 Spring: Advanced Microeconomics. 
   * 2013 Autumn: Macroeconomics. 
   * 2013 Spring: Microeconomics. 
     
