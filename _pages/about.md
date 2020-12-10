@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am currently a Ph.D. candidate at the Ohio State University.
 
-I will join Hitotsubashi University as an Assistant Professor in 2021 Spring. 
+I will join Hitotsubashi University as an Assistant Professor (講師 in Japanese) in 2021 Spring. 
 
 
 Research Interests:
