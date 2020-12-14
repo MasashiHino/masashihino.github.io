@@ -10,6 +10,8 @@ redirect_from:
 
 {% include base_path %}
 
+
+
 [pdf version of cv](https://masashihino.github.io/files/Hino_CV.pdf)
 
 
@@ -83,3 +85,21 @@ References:
 * Professor **Aubhik Khan**:  [khan.247[at]osu.edu](mailto:khan.247@osu.edu)
 
 * Professor **Pok-sang Lam**: [lam.1[at]osu.edu](mailto:lam.1@osu.edu)
+
+{% if page.lastmod %}
+  {% assign lastmod = page.lastmod %}
+{% else %}
+  {% assign lastmod = page.date %}
+{% endif %}
+
+<article itemscope itemtype="https://schema.org/BlogPosting">
+  <header>
+    <h1 itemprop="headline">{{ page.title }}</h1>
+    <span>Last Updated:
+      <time itemprop="dateModified" datetime="{{ lastmod }}">{{ lastmod }}</time>
+    </span>
+  </header>
+  <div itemprop="articleBody">
+    {{ content }}
+  </div>
+</article>
