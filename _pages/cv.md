@@ -3,7 +3,6 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-date: "`r format(Sys.time(), '%Y/%m/%d')`"
 redirect_from:
   - /resume
 ---
