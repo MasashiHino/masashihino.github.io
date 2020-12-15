@@ -30,13 +30,13 @@ Contact:
 
 CV:
 ======
-([pdf version](https://masashihino.github.io/files/Hino_CV.pdf)), ([html version](https://masashihino.github.io/cv/))
+([pdf version](/files/Hino_CV.pdf)), ([html version](https://masashihino.github.io/cv/))
 
 Research Papers:
 ======
 * **Working Ppaers**
 
-  * *[A Model of Anticipated Consumption Tax Changes](https://masashihino.github.io/files/Hino_CT_Irr_paper_2020Dec.pdf)* (**job market paper**)
+  * *[A Model of Anticipated Consumption Tax Changes](/files/Hino_CT_Irr_paper_2020Dec.pdf)* (**job market paper**)
   
   
 * **Work in Progress**
