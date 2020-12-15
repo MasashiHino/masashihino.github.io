@@ -27,8 +27,9 @@ Research Papers:
 * **Work in Progress**
   * *Interest Rate Elasticity of Aggregate Durables and Life-cycle*
   
-Presentations:
+Presentations: 
 ======
+(after entering Ph.D. program)
 * 2021 
   * Midwest Economic Association (scheduled)
   * 15th Macroeconomic Conference for Young Economists (scheduled)
