@@ -5,7 +5,7 @@ layout: archive
 permalink: /teaching/
 author_profile: true
 redirect_from:
-  - /teaching
+  - /
 venue: "Hitotsubashi Univ, Department of Economics"
 date: 2021-04-01
 ---
