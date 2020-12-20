@@ -12,15 +12,15 @@ date: 2021-04-01
 
 {% include base_path %}
 
-This is a webpage for "Foundamental Macroeconomics (基礎マクロ)" at Hitotsubashi University.  
+This is a webpage for "**Introductory Macroeconomics (基礎マクロ)**" at Hitotsubashi University.  
 
 # Important Info
 
 * **syllabus**: pdf (in Japanese. to be uploaded), or see below for English version
- * **grades**: midterm and final exams (50% each)
+ * **grades** (tentative): midterm and final exams (50% each)
  * **prerequisite**: I would like to assume that students 
    * have taken introductory economics (入門経済学) and some other 100-level courses
-   * are taking foundamental microeconomics and econometrics (基礎ミクロ・基礎計量)
+   * are taking or have taken *introductory microeconomics* and *introductory econometrics* (基礎ミクロ・基礎計量)
   
 # Course Schedule   
 
