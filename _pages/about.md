@@ -14,7 +14,7 @@ I will join Hitotsubashi University as an Assistant Professor (講師 in Japanes
 
 Research Interests:
 ======
-Macroeconomics, Consumptions (Durables), Computational Economics, Public Economics.
+Macroeconomics, Consumption (Durables), Computational Economics, Public Economics.
 
 Contact:
 ======
