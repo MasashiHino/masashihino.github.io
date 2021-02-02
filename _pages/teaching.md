@@ -16,35 +16,35 @@ date: 2021-04-01
 
 {% include base_path %}
 
-This is a webpage for "Foundamental Macroeconomics (基礎マクロ)" at Hitotsubashi University. 
 
-このページは一橋大学における『基礎マクロ経済学』のためのページです。
+このページは一橋大学における『基礎マクロ経済学』のためのページです．
 
-# Important Info
+# 重要事項
 
-* **syllabus**: pdf (in Japanese, to be uploaded), or see below for English version
-* **grades**: midterm and final exams (50% each)
-   * I will post practice problem sets for students' sef-study (no submission).  
-* **prerequisite**: I would like to assume that students 
-   * have taken introductory economics (入門経済学) and some other 100-level courses
-   * are taking foundamental microeconomics and econometrics (基礎ミクロ・基礎計量)
+* **シラバス**: pdf (準備中)
+* **授業形態**: 準備中
+* **成績評価方法**: 準備中
+* **前提知識**:  
+   * 入門経済学および100番台のコースが既習であることが望ましい．
+   * 基礎ミクロ経済学と基礎計量経済学を既習または同時履修中であることが望ましい．
+    * (コメント：特に基礎ミクロ経済学とは内容が一定程度重複します)
+   
   
-# Course Schedule (Tentative)  
+# 授業予定 (仮)  
 
-* week 1. intro, math review   
-* week 2. basic measurement
-* week 3. Households: consumptions and savings
-* week 4. Households: labor hour choice
-* week 5. Firm: investment
-* week 6. Equilibrium: GE, RBC intro, asset pricing
-* week 7. Equilibrium: cont'd
-  * **midterm exam**
-* week 8. Economic Growth: Solow Model
-* week 9. Economic Growth: Solow Model 
-* week 10. Money 
-* week 11. IS-LM based on NK 
-* week 12. IS-LM based on NK
-* week 13. AD-AS based on NK (cont'd)
-  * **final exam**
+* week 1. イントロ，数学のレビュー   
+* week 2. マクロ統計
+* week 3. 家計: 消費と貯蓄
+* week 4. 家計：消費と余暇・労働
+* week 5. 企業：投資
+* week 6. 均衡: GE, RBC入門, 簡単な資産価格理論
+* week 7. 均衡：(続)
+* week 8. 経済成長: ソローモデル
+* week 9. 経済成長: (続) 
+* week 10. 貨幣 
+* week 11. IS-LMおよび簡単なニューケインジアン
+* week 12. IS-LMおよび簡単なニューケインジアン(続)
+* week 13. AD-ASおよび簡単なニューケインジアン
+ 
 
 
