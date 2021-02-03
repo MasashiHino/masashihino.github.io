@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<span style="color: blue; ">**cv**</span>[pdf version of cv](/files/Hino_CV.pdf)
+[pdf version of cv](/files/Hino_CV.pdf)
 
 
 Education:
@@ -84,3 +84,4 @@ References:
 
 * Professor **Pok-sang Lam**: [lam.1[at]osu.edu](mailto:lam.1@osu.edu)
 
+<span style="color: blue; ">**final update in 2020 Dec**</span>
