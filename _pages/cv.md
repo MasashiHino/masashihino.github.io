@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[pdf version of cv](/files/Hino_CV.pdf)
+<span style="color: blue; ">**cv**</span>[pdf version of cv](/files/Hino_CV.pdf)
 
 
 Education:
