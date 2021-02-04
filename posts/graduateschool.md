@@ -1,4 +1,5 @@
-**MARCHや関関同立等の私立大の学生が経済学の大学院に進学する際に気を付けると良いと思うこと**
+MARCHや関関同立等の私立大の学生が経済学の大学院に進学する際に気を付けると良いと思うこと
+======
 
 昨年(2020年)は，日本経済学会が[アウトリーチ企画](https://sites.google.com/view/jea-outrearch-2020/)を設けたり，MITの菊池さんが[このような活動](https://sites.google.com/view/econ-phd-japan-outreach/home)をされたり，Princetonの山岸さんの[報告書](https://www.funaifoundation.jp/scholarship/202011yamagishiatsushi.pdf)，他にも私は参加できなかった企画を含め，様々なアウトリーチ企画があったように記憶しています．特に，菊池さんや山岸さんのような院生の意見は，学部生にとって比較的身近な立場の人の意見で，とても刺激的なのではないかと思います．
 
