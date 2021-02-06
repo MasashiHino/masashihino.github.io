@@ -5,6 +5,9 @@ permalink: /posts/graduateschool
 author_profile: true
 ---
 
+(2021年2月現在) 
+
+
 昨年(2020年)は，日本経済学会が[アウトリーチ企画](https://sites.google.com/view/jea-outrearch-2020/)を設けたり，MITの菊池さんが[このような活動](https://sites.google.com/view/econ-phd-japan-outreach/home)をされたり，Princetonの山岸さんの[報告書](https://www.funaifoundation.jp/scholarship/202011yamagishiatsushi.pdf)，他にも私が詳しく存じ上げない企画を含め，様々なアウトリーチ企画があったと記憶しています．特に，菊池さんや山岸さんのような院生の意見は，学部生にとって比較的身近な立場の人の意見で，とても刺激的なのではないかと思います．
 
 このようなアウトリーチ企画に刺激され，私もまだ名義上は院生として，私ならではの視点で何か書くことが出来ないかと思い，**他大修士課程)に進学するうえで気を付けると良いと思うこと**を書いてみようかと思います．そういう大学出身の方に向けて，狭義にはMARCHや関関同立程度の大学出身が旧帝や神大、早慶の修士課程に進学する場合を意識していますが，広義には内部進学する人にも役に立てばと思います．
