@@ -31,8 +31,11 @@ date: 2021-04-01
 * **参考文献** 
   あくまで配布資料で自己完結するように注意していません．以下の参考文献はこの授業と重複するトピックが多く，難易度が似ている書籍の参考例です．購入は必ずしも必要ではありません．
   *[1] Pablo Kurlat[``A Course in Modern Macroeconomics''](https://sites.google.com/view/pkurlat/a-course-in-modern-macroeconomics) or [Amazon link](https://www.amazon.co.jp/dp/1073566714/ref=cm_sw_em_r_mt_dp_26B68RXKPC3NBNN9XZNE)
+  
   *[2] 二神・堀[『マクロ経済学』(Amazon link)](https://www.amazon.co.jp/dp/4641165025/ref=cm_sw_em_r_mt_dp_T9VY6E6BRG30R1ZCZ0ES)
+  
   *[3] 柴田・宇南山[『マクロ経済学の第一歩』(Amazon link)](https://www.amazon.co.jp/dp/4641150060/ref=cm_sw_em_r_mt_dp_TN5S83HPXCM6HQGNN4A7)
+  
   *[4] 細野[『いまこそ学ぼう マクロ経済学』(Amazon link)](https://www.amazon.co.jp/dp/4535558027/ref=cm_sw_em_r_mt_dp_HN31E7C5EXGV43D6E78P)
    
   
