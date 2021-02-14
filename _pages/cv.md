@@ -32,7 +32,7 @@ Presentations:
 (after entering Ph.D. program)
 * 2021 
   * Midwest Economic Association (scheduled)
-  * 15th Macroeconomic Conference for Young Economists (scheduled)
+  * [15th Macroeconomic Conference for Young Economists](http://www.macro.kier.kyoto-u.ac.jp/20210216.pdf) (scheduled)
 * 2020
   * [Macro Conference](https://ies.keio.ac.jp/en/events/13319/)
   * [ISER Moriguchi Prize Presentations](https://www.iser.osaka-u.ac.jp/seminar/index.html) 
