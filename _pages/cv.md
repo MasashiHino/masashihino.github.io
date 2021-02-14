@@ -29,7 +29,7 @@ Research Papers:
   
 Presentations: 
 ======
-(after entering Ph.D. program)
+(after entering Ph.D. program and excluding internal presenation)
 * 2021 
   * Midwest Economic Association (scheduled)
   * [15th Macroeconomic Conference for Young Economists](http://www.macro.kier.kyoto-u.ac.jp/20210216.pdf) (scheduled)
