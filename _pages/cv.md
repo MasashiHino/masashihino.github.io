@@ -29,10 +29,10 @@ Research Papers:
   
 Presentations: 
 ======
-(after entering Ph.D. program)
+(after entering the Ph.D. program and excluding internal presenations)
 * 2021 
   * Midwest Economic Association (scheduled)
-  * 15th Macroeconomic Conference for Young Economists (scheduled)
+  * [15th Macroeconomic Conference for Young Economists](http://www.macro.kier.kyoto-u.ac.jp/20210216.pdf) (scheduled)
 * 2020
   * [Macro Conference](https://ies.keio.ac.jp/en/events/13319/)
   * [ISER Moriguchi Prize Presentations](https://www.iser.osaka-u.ac.jp/seminar/index.html) 
@@ -52,6 +52,9 @@ Presentations:
   
 Teaching Experience:
 ======
+* Hitotsubashi University (scheduled)
+  * 2021 Spring: Introductory Macroeconomics (Mainly for Sophomore)
+
 * The Ohio State University (Graduate Teaching Assistant)
   * 2020 Spring: Comparative Institutional Analysis of Firms and Markets, Principles of Macroeconomics. 
   * 2019 Autumn: Principle of Microeconomics. 
@@ -64,7 +67,7 @@ Teaching Experience:
   * 2013 Autumn: Macroeconomics. 
   * 2013 Spring: Microeconomics. 
     
-Grant and Award:
+Grants and Awards:
 ======
 * [Moriguchi Prize](https://www.iser.osaka-u.ac.jp/moriguchi/moriguchi_en.html), 2020.
 * Nakajima Foundation, 2015
