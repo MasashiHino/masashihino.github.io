@@ -36,9 +36,11 @@ date: 2021-04-01
   
   [2] 二神・堀[『マクロ経済学』(Amazon link)](https://www.amazon.co.jp/dp/4641165025/ref=cm_sw_em_r_mt_dp_T9VY6E6BRG30R1ZCZ0ES)
   
-  [3] 柴田・宇南山[『マクロ経済学の第一歩』(Amazon link)](https://www.amazon.co.jp/dp/4641150060/ref=cm_sw_em_r_mt_dp_TN5S83HPXCM6HQGNN4A7)
+  [3] 三野[『マクロ経済学』(Amazon link)]
   
-  [4] 細野[『いまこそ学ぼう マクロ経済学』(Amazon link)](https://www.amazon.co.jp/dp/4535558027/ref=cm_sw_em_r_mt_dp_HN31E7C5EXGV43D6E78P)
+  [4] 柴田・宇南山[『マクロ経済学の第一歩』(Amazon link)](https://www.amazon.co.jp/dp/4641150060/ref=cm_sw_em_r_mt_dp_TN5S83HPXCM6HQGNN4A7)
+  
+  [5] 細野[『いまこそ学ぼう マクロ経済学』(Amazon link)](https://www.amazon.co.jp/dp/4535558027/ref=cm_sw_em_r_mt_dp_HN31E7C5EXGV43D6E78P)
    
   
 # 授業予定 (仮)  
