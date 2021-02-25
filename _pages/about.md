@@ -18,11 +18,13 @@ Macroeconomics, Consumption (Durables), Computational Economics, Fiscal Policy.
 
 Contact:
 ======
-* **Email** (University): [hino.4[at]buckeyemail.osu.edu](mailto:hino.4@buckeyemail.osu.edu)
+* **Email** (University): [a211148y[at]r.hit-u.ac.jp](mailto:a211148y@r.hit-u.ac.jp)
 
 * **Email**: [m.hino.0323[at]gmail.com](mailto:m.hino.0323@gmail.com)
 
-* Mailing Address: Department of Economics, Ohio State University
+* **Email** (University): [hino.4[at]buckeyemail.osu.edu](mailto:hino.4@buckeyemail.osu.edu)
+
+* Mailing Address: Department of Economics, The Ohio State University
 
   410 Arps Hall, 1945 N High St
 
