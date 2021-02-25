@@ -20,6 +20,8 @@ Contact:
 ======
 * **Email** (University): [a211148y[at]r.hit-u.ac.jp](mailto:a211148y@r.hit-u.ac.jp)
 
+  (※学生の方へ：私の授業に関する連絡は上の一橋大学のアドレスにお願いします．)
+
 * **Email**: [m.hino.0323[at]gmail.com](mailto:m.hino.0323@gmail.com)
 
 * **Email** (University): [hino.4[at]buckeyemail.osu.edu](mailto:hino.4@buckeyemail.osu.edu)
