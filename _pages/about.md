@@ -18,7 +18,7 @@ Macroeconomics, Consumption (Durables), Computational Economics, Fiscal Policy.
 
 Contact:
 ======
-* **Email** (University): [a211148y[at]r.hit-u.ac.jp](mailto:a211148y@r.hit-u.ac.jp)
+* **Email** (University): [masashi.hino[at]r.hit-u.ac.jp](mailto:masashi.hino@r.hit-u.ac.jp)
 
   (※ To Hitotsubashi Students：Please use the email address above when emailing me about my classes.)
 
