@@ -14,7 +14,7 @@ redirect_from:
 
 Education:
 ======
-* Ph.D. in Economics, 2021 (the degree will be conferred in May), [The Ohio State University](https://economics.osu.edu/).
+* Ph.D. in Economics, 2021 (defense completed. the degree will be conferred in May), [The Ohio State University](https://economics.osu.edu/).
 * M.A. in Economics, 2014, [Kyoto University](https://www.econ.kyoto-u.ac.jp/en/).
 * B.A. in Economics, 2012, [Doshisha University](https://www.econ.doshisha.ac.jp/en/).
 
@@ -87,4 +87,4 @@ References:
 
 * Professor **Pok-sang Lam**: [lam.1[at]osu.edu](mailto:lam.1@osu.edu)
 
-<span style="color: blue; ">**final update in 2020 Dec**</span>
+<span style="color: blue; ">**final update in 2021 Jan**</span>
