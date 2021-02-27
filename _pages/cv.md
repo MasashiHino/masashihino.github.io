@@ -11,11 +11,11 @@ redirect_from:
 
 [pdf version of cv](/files/Hino_CV.pdf)
 
-[]( comment out
+<!-- 
 Current Position: \
 ======\
 * Assistant Professor,  2021 April-, [Hitotsubashi University, Graduate School of Economics](https://www.econ.hit-u.ac.jp/eng/index.html)\
-)
+-->
 
 Education:
 ======
