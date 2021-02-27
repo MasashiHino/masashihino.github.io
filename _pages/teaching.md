@@ -19,27 +19,33 @@ date: 2021-04-01
 
 このページは一橋大学における『基礎マクロ経済学』のためのページです．
 
+This page is for "Introductory Macroeconomics" at Hitotsubashi Univ written in Japanese.
+
 # 重要事項
 
 * **シラバス**: pdf (準備中)
 * **授業形態**: 準備中
 * **成績評価方法**: 準備中
-* **質問**：manabaにリンクを貼ります．
+* **質問**：準備中
+* **連絡先**: [masashi.hino[@]r.hit-u.ac.jp](mailto:masashi.hino@r.hit-u.ac.jp)  
 * **前提知識**:  
    * 入門経済学および100番台のコースが既習であることが望ましいです．
    * 基礎ミクロ経済学と基礎計量経済学を既習または同時履修中であることが望ましいです．
       * (コメント：特に基礎ミクロ経済学とは内容が多少重複する予定です．そのため同時履修の方が学習効率は良いと思います)
 * **参考文献** 
-  あくまで配布資料で自己完結するように注意していません．以下の参考文献はこの授業と重複するトピックが多く，難易度が似ている書籍の参考例です．購入は必ずしも必要ではありません．
-  
+  この授業は配布資料のみで学習が自己完結するように注意しています．以下の参考文献はこの授業と重複するトピックが多く，難易度が似ている書籍の参考例です．購入は必ずしも必要ではありません．
+    
   [1] Pablo Kurlat[ ``A Course in Modern Macroeconomics''](https://sites.google.com/view/pkurlat/a-course-in-modern-macroeconomics) or [Amazon link](https://www.amazon.co.jp/dp/1073566714/ref=cm_sw_em_r_mt_dp_26B68RXKPC3NBNN9XZNE)
   
   [2] 二神・堀[『マクロ経済学』(Amazon link)](https://www.amazon.co.jp/dp/4641165025/ref=cm_sw_em_r_mt_dp_T9VY6E6BRG30R1ZCZ0ES)
   
-  [3] 柴田・宇南山[『マクロ経済学の第一歩』(Amazon link)](https://www.amazon.co.jp/dp/4641150060/ref=cm_sw_em_r_mt_dp_TN5S83HPXCM6HQGNN4A7)
+  [3] 三野[『マクロ経済学』(Amazon link)](https://www.amazon.co.jp/dp/4563062529/ref=cm_sw_em_r_mt_dp_6HZN0RA0ZJJFH6KZZD1D)
   
-  [4] 細野[『いまこそ学ぼう マクロ経済学』(Amazon link)](https://www.amazon.co.jp/dp/4535558027/ref=cm_sw_em_r_mt_dp_HN31E7C5EXGV43D6E78P)
-   
+  [4] 柴田・宇南山[『マクロ経済学の第一歩』(Amazon link)](https://www.amazon.co.jp/dp/4641150060/ref=cm_sw_em_r_mt_dp_TN5S83HPXCM6HQGNN4A7)
+  
+  [5] 細野[『いまこそ学ぼう マクロ経済学』(Amazon link)](https://www.amazon.co.jp/dp/4535558027/ref=cm_sw_em_r_mt_dp_HN31E7C5EXGV43D6E78P)
+  
+  いずれも教科書として良い定評があると思いますが，中でも特に1冊目のPablo Kurlat教授の教科書はアメリカの最先端にいる教員が学部中級程度を対象に書かれた稀有な教科書だと思います(学部初級者向けの教科書は多いです)．中級程度のマクロ経済学を取る予定の人，大学院やマクロ経済学の知識を使った職業に関心のある人にとっては長く使える本になると思います．
   
 # 授業予定 (仮)  
 
