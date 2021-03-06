@@ -27,7 +27,8 @@ This page is for "Introductory Macroeconomics" at Hitotsubashi Univ written in J
 * **授業形態**: 準備中
 * **成績評価方法**: 準備中
 * **質問**：準備中
-* **連絡先**: [masashi.hino[@]r.hit-u.ac.jp](mailto:masashi.hino@r.hit-u.ac.jp)  授業に関する連絡時は『基礎マクロ質問』とタイトルに入れてください(それでメールをフィルターしてます)
+* **連絡先**: [masashi.hino[@]r.hit-u.ac.jp](mailto:masashi.hino@r.hit-u.ac.jp)  
+   * 授業に関する連絡時は『基礎マクロ質問』とタイトルに入れてください(それでメールをフィルターしてます)
 * **前提知識**:  
    * 入門経済学および100番台のコースが既習であることが望ましいです．
    * 基礎ミクロ経済学と基礎計量経済学を既習または同時履修中であることが望ましいです．
