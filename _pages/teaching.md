@@ -24,7 +24,7 @@ This page is for "Introductory Macroeconomics" at Hitotsubashi Univ written in J
 # 重要事項
 
 * **シラバス**: [link](https://www.hit-u.ac.jp/kyomu/info/ct.html)
-* **授業形態**: オンデマンド
+* **授業形態**: オンデマンド(録画のこと)
   * Google Classroomに授業動画をアップロードします． 
 * **成績評価方法**: 期末試験のみ
 * **質問**：準備中
