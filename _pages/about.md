@@ -7,10 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a Ph.D. candidate at the Ohio State University.
 
-I will join Hitotsubashi University as an Assistant Professor (講師 in Japanese) in 2021 Spring. 
-
+I am an Assistant Professor (講師 in Japanese) at Hitotsubashi University (一橋大学). 
 
 Research Interests:
 ======
@@ -24,7 +22,6 @@ Contact:
 
 * **Email** (Permanent): [m.hino.0323[at]gmail.com](mailto:m.hino.0323@gmail.com)
 
-* **Email** (OSU): [hino.4[at]buckeyemail.osu.edu](mailto:hino.4@buckeyemail.osu.edu)
 
 CV:
 ======
