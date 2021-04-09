@@ -38,8 +38,8 @@ Presentations:
 * 2021 
   * Computing in Economics and Finance (scheduled) 
   * Asian Meetings of Econometric Society (scheduled)
-  * Midwest Economic Association (scheduled)
-  * [15th Macroeconomic Conference for Young Economists](http://www.macro.kier.kyoto-u.ac.jp/20210216.pdf) (scheduled)
+  * [Midwest Economic Association](http://mea.grinnell.edu/) 
+  * [15th Macroeconomic Conference for Young Economists](http://www.macro.kier.kyoto-u.ac.jp/20210216.pdf)
 * 2020
   * [Macro Conference](https://ies.keio.ac.jp/en/events/13319/)
   * [ISER Moriguchi Prize Presentations](https://www.iser.osaka-u.ac.jp/seminar/index.html) 
