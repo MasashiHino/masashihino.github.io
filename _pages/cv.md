@@ -36,7 +36,7 @@ Presentations:
 ======
 (after entering the Ph.D. program and excluding internal presenations)
 * 2021 
-　* Computing in Economics and Finance (scheduled) 
+  * Computing in Economics and Finance (scheduled) 
   * Asian Meetings of Econometric Society (scheduled)
   * Midwest Economic Association (scheduled)
   * [15th Macroeconomic Conference for Young Economists](http://www.macro.kier.kyoto-u.ac.jp/20210216.pdf) (scheduled)
