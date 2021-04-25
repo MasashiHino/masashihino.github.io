@@ -66,6 +66,7 @@ This page is for "Introductory Macroeconomics" at Hitotsubashi Univ written in J
 * week 12. IS-LMおよび簡単なニューケインジアン(続)
 * week 13. AD-ASおよび簡単なニューケインジアン
 * week 14. 進んだ経済政策議論 (最適金融政策，時間非整合性，コミットメント)
+* Time pertting... 疫学マクロモデル(SIRモデル等)
  
 
 
