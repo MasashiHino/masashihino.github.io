@@ -7,9 +7,9 @@ redirect_from:
   - /how_to
 ---
 
-This page collects useful lessons & advice from top scholars or institutions. 
+This page collects useful lessons & advice for research in Economics. 
 
-(このページでは，世界のトップ研究者による研究のアドバイスのリストを掲載しています)
+(このページでは，経済学研究のアドバイスのリストを掲載しています)
 
 For Presentations:
 ======
@@ -33,15 +33,30 @@ For Presentations:
 
 For Writings:
 ======
+  * [The Ten Most Important Rules of Writing Your Job Market Paper](files/how_to/tenruleswriting.pdf) by Prof. Goldin and Prof. Katz
+  * [論文の書き方について](files/how_to/howtowrite_Hayashi.pdf) by Prof. F. Hayashi
+  * [Writing Economics A Guide for Harvard Economics Concentrators](files/how_to/writingec_f2014_0.pdf) at Harvard Univ
+  * 
+
+* *** From Other Discipline***
+  * [Novelist Cormac McCarthy’s tips on how to write a great science paper](https://www.nature.com/articles/d41586-019-02918-5) 
 
 For Latex Formatting (including Beamer)
 ======
-* [Tips + Tricks with Beamer for Economists](files/how_to/beamer_tips.pdf)
-* [(Math) Fonts with Beamer](files/how_to/MathFonts.pdf)
-* [Beamer Theme Matrix](https://hartwork.org/beamer-theme-matrix/)
-* [Latex Color](http://latexcolor.com/)
-* [Latex Font](files/how_to/latex-fonts.pdf)
+* ***Mainly for Beamer*** 
+  * [Tips + Tricks with Beamer for Economists](files/how_to/beamer_tips.pdf)
+  * [(Math) Fonts with Beamer](files/how_to/MathFonts.pdf)
+  * [Beamer Theme Matrix](https://hartwork.org/beamer-theme-matrix/)
+  * [Latex Color](http://latexcolor.com/)
+  * [Latex Font](files/how_to/latex-fonts.pdf)
+* ***Mainly for Working Paper***
+  * [ElegantPaper: An Elegant LATEX Template for Working Papers](files/how_to/elegantpaper-en.pdf) 
+  * [Chad's Color LaTeX Style](https://web.stanford.edu/~chadj/latex2.html)
 
-For 
 
+General Advice for Young Researchers
+=====
+* Videos
+  * [Nobel Laureates Give Advice to Young Economists](https://youtu.be/k9X0ogs0Ihc)
+  * [Nobel Laureates on The Future of Economics](https://youtu.be/Jx-tfoPhr7Y)
 
