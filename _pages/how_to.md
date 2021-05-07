@@ -28,11 +28,14 @@ For Presentations:
   * [TIPS ON PREPARING FOR THE WORKSHOP](files/how_to/kehoe_tips_presentation.pdf) by Prof. T. Kehoe
   * [Michigan Reading Group Rules](files/how_to/UMich_PresentationGuidelines.pdf) by Prof. Blanco
   *
-
+* Documents written in Japanese
+  * [理想のプレゼン](https://sites.google.com/view/fumio-hayashis-hp/short-blogs-in-japanese/%E7%90%86%E6%83%B3%E3%81%AE%E3%83%97%E3%83%AC%E3%82%BC%E3%83%B3?authuser=0) by Prof. F. Hayashi
+  
 For Slide Formatting
 ======
 * [Tips + Tricks with Beamer for Economists](files/how_to/beamer_tips.pdf)
-
+* [(Math) Fonts with Beamer](files/how_to/MathFonts.pdf)
+* [Beamer Theme Matrix](https://hartwork.org/beamer-theme-matrix/)
 
 For Writings:
 ======
