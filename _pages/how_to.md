@@ -34,7 +34,7 @@ For Presentations:
 For Writings:
 ======
   * [The Ten Most Important Rules of Writing Your Job Market Paper](/files/how_to/tenruleswriting.pdf) by Prof. Goldin and Prof. Katz
-  * [論文の書き方について](files/how_to/howtowrite_Hayashi.pdf) by Prof. F. Hayashi
+  * [論文の書き方について](/files/how_to/howtowrite_Hayashi.pdf) by Prof. F. Hayashi
   * [Writing Economics A Guide for Harvard Economics Concentrators](/files/how_to/writingec_f2014_0.pdf) at Harvard Univ
   * 
 
