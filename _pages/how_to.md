@@ -33,6 +33,8 @@ For Presentations:
   
 * ***Documents written in Japanese***
   * [理想のプレゼン](https://sites.google.com/view/fumio-hayashis-hp/short-blogs-in-japanese/%E7%90%86%E6%83%B3%E3%81%AE%E3%83%97%E3%83%AC%E3%82%BC%E3%83%B3?authuser=0) by Prof. F. Hayashi
+* ***SNS***
+  * [プレゼンのコツ](https://twitter.com/MitsuruIgami_JP/status/1273024275885285376?s=20) [プレゼンのコツ２](https://twitter.com/MitsuruIgami_JP/status/1273403649251737600?s=20) [滑舌](https://twitter.com/MitsuruIgami_JP/status/1272641120925896707?s=20) by Prof. Igami
   
 
 For Writings:
