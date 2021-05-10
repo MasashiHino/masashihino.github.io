@@ -1,5 +1,5 @@
 ---
-title: "Teaching(Japanese)"
+title: "基礎マクロ"
 collection: teaching
 layout: archive
 permalink: /intro_macro/
