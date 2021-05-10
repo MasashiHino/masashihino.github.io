@@ -46,11 +46,11 @@ For Writings:
   * [Writing Tips For Economics Research Papers](/files/how_to/writingtips.pdf) by Prof. Nikolov
   * [From Manuscript to Publication: A Brief Guide for Economists](https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1467-8462.2006.00402.x?casa_token=_QAg8GiTqSAAAAAA:poubFcTLyGIPmIrwIvhIXmXMxnlS4GPU4n0QJOx907tLsJBym2soeLa2czi2xriLfYEcSA3xmd4genmd) by Prof. Creedy
 
-* *** Written in Japanese***
+* ***Written in Japanese***
   * [論文の書き方について](/files/how_to/howtowrite_Hayashi.pdf) by Prof. F. Hayashi
   * [いかにして英文雑誌に論文を掲載するか？(スライド)](/files/how_to/JEA2019Otsuka.pdf) by Prof. Otsuka
   * [いかにして英文雑誌に論文を掲載するか？(和論文)](https://www.jstage.jst.go.jp/article/nokei/86/2/86_179/_pdf) by Prof. Otsuka
-* *** From Other Disciplines***
+* ***From Other Disciplines***
   * [Novelist Cormac McCarthy’s tips on how to write a great science paper](https://www.nature.com/articles/d41586-019-02918-5) 
   * [Writing Mathematical Papers in English](/files/how_to/1995-ems-trzeciak-writing_mathematical_papers_in_english__a_practical_guide.pdf)
 
