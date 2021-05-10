@@ -39,7 +39,7 @@ For Presentations:
 
 For Writings:
 ======
-  * [Writing Tips for Ph. D. Students](/files/how_to/phd_paper_writing.pdf)
+  * [Writing Tips for Ph. D. Students](/files/how_to/phd_paper_writing.pdf) by Prof. Cochrane
   * [The Ten Most Important Rules of Writing Your Job Market Paper](/files/how_to/tenruleswriting.pdf) by Prof. Goldin and Prof. Katz
 
   * [Writing Economics A Guide for Harvard Economics Concentrators](/files/how_to/writingec_f2014_0.pdf) at Harvard Univ
