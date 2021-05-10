@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "How_To"
+title: "List of Advice"
 permalink: /how_to/
 author_profile: true
 redirect_from:
