@@ -16,6 +16,6 @@ date: 2021-04-01
 
 {% include base_path %}
 
-* [基礎マクロ](/intro_macro/)
-* [色々](/how_to/)
+* [基礎マクロ](https://masashihino.github.io/intro_macro/)
+* [色々](https://masashihino.github.io/how_to/)
 
