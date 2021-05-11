@@ -21,7 +21,7 @@ This page is for "Introductory Macroeconomics" at Hitotsubashi Univ written in J
 
 # 重要事項
 
-* **シラバス**: [link](https://www.hit-u.ac.jp/kyomu/info/ct.html)
+* **シラバス**: [link](https://syllabus.cels.hit-u.ac.jp/hit_syllabus/2021/03/03_1EA20201_ja_JP.html)
 * **授業形態**: オンデマンド(録画のこと)
   * Google Classroomに授業動画をアップロードします．Google Classroomへのリンクは、教務システム(CELS)の履修者向けのお知らせに貼っています．
 * **成績評価方法**: 期末試験のみ
