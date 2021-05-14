@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CV: Masashi Hino (日野将志 in JPN)"
 permalink: /cv/
 author_profile: true
 redirect_from:
