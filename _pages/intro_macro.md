@@ -23,13 +23,16 @@ This page is for "Introductory Macroeconomics" at Hitotsubashi Univ written in J
 
 * **シラバス**: [link](https://syllabus.cels.hit-u.ac.jp/hit_syllabus/2021/03/03_1EA20201_ja_JP.html)
 * **授業形態**: オンデマンド(録画のこと)
-  * Google Classroomに授業動画をアップロードします．Google Classroomへのリンクは、教務システム(CELS)の履修者向けのお知らせに貼っています．
+  * Google Classroomに授業動画をアップロードします．Google Classroomへのリンクは、CELSやmanabaの履修者向けのお知らせに貼っています．
 * **成績評価方法**: 期末試験のみ
-* **質問**：準備中
+* **質問**：
+   * メールやOffice Hourでの質問を歓迎しますが、次のような匿名の質問フォームも用意しています
+   * Google Classroomに匿名でも質問できるformを置いているので、匿名で質問・指摘したい場合はそちらに書き込みをしてください
 * **連絡先**: [masashi.hino[@]r.hit-u.ac.jp](mailto:masashi.hino@r.hit-u.ac.jp)  
-   * 授業に関する連絡時は『基礎マクロ質問』とタイトルに入れてください(それでメールをフィルターしてます)
+   * 授業に関する連絡時は『基礎マクロ質問』とタイトルに入れてもらえると助かります(それでメールをフィルターしてます)
 * **前提知識**:  
    * 入門経済学および100番台のコースが既習であることが望ましいです．
+      * (やる気がある一年生が履修を悩んでいる場合、試しに履修することを歓迎します) 
    * 基礎ミクロ経済学と基礎計量経済学を既習または同時履修中であることが望ましいです．
       * (コメント：特に基礎ミクロ経済学とは内容が多少重複する予定です．そのため同時履修の方が学習効率は良いと思います)
       * 中級マクロとも内容が多分に重複するので，この後に中級マクロやその他マクロの上級コースを履修すると，学習効率が高いと思います．
@@ -39,6 +42,8 @@ This page is for "Introductory Macroeconomics" at Hitotsubashi Univ written in J
   [1] Pablo Kurlat[ ``A Course in Modern Macroeconomics''](https://sites.google.com/view/pkurlat/a-course-in-modern-macroeconomics) or [Amazon link](https://www.amazon.co.jp/dp/1073566714/ref=cm_sw_em_r_mt_dp_26B68RXKPC3NBNN9XZNE)
   
   [2] 二神・堀[『マクロ経済学』(Amazon link)](https://www.amazon.co.jp/dp/4641165025/ref=cm_sw_em_r_mt_dp_T9VY6E6BRG30R1ZCZ0ES)
+  
+  [3] 宮尾[『コア・テキスト　マクロ経済学(第二版)』(Amazon link)](https://www.amazon.co.jp/dp/4883842541/ref=cm_sw_r_tw_dp_Z0F7DPMW4WPHBXASKE7V )
   
   [3] 三野[『マクロ経済学』(Amazon link)](https://www.amazon.co.jp/dp/4563062529/ref=cm_sw_em_r_mt_dp_6HZN0RA0ZJJFH6KZZD1D)
   
