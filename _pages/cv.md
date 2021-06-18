@@ -37,6 +37,7 @@ Presentations:
 (after entering the Ph.D. program and excluding internal presenations)
 * 2021 
   * European Meetings of Econometric Society (scheduled)
+  * Waseda University (scheduled)
   * Computing in Economics and Finance (scheduled) 
   * Asian Meetings of Econometric Society (scheduled)
   * [Midwest Economic Association](http://mea.grinnell.edu/) 
