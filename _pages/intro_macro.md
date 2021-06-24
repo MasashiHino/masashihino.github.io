@@ -27,6 +27,7 @@ This page is for "Introductory Macroeconomics" at Hitotsubashi Univ written in J
 * **成績評価方法**: 期末試験のみ
 * **質問**：
    * メールやOffice Hourでの質問を歓迎しますが、次のような匿名の質問フォームも用意しています
+   * Office Hourはオンラインで行います．リンクはGoogle Classroomに貼っています
    * Google Classroomに匿名でも質問できるformを置いているので、匿名で質問・指摘したい場合はそちらに書き込みをしてください
 * **連絡先**: [masashi.hino[@]r.hit-u.ac.jp](mailto:masashi.hino@r.hit-u.ac.jp)  
    * 授業に関する連絡時は『基礎マクロ質問』とタイトルに入れてもらえると助かります(それでメールをフィルターしてます)
