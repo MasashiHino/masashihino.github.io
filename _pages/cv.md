@@ -26,7 +26,7 @@ Education:
 
 Research Papers:
 ======
-* **Working Ppaers**
+* **Working Papers**
 
   * ***[A Model of Anticipated Consumption Tax Changes](/files/Hino_CT_Irr_paper_2021Jan.pdf)*** (**job market paper**)
 * **Work in Progress**
@@ -38,8 +38,8 @@ Presentations:
 * 2021 
   * European Meetings of Econometric Society (scheduled)
   * Waseda University (scheduled)
-  * Computing in Economics and Finance (scheduled) 
   * Asian Meetings of Econometric Society (scheduled)
+  * [Computing in Economics and Finance](https://comp-econ.org/CEF_2021/) 
   * [Midwest Economic Association](http://mea.grinnell.edu/) 
   * [15th Macroeconomic Conference for Young Economists](http://www.macro.kier.kyoto-u.ac.jp/20210216.pdf)
 * 2020
