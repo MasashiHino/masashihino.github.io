@@ -38,7 +38,7 @@ Presentations:
 * 2021 
   * European Meetings of Econometric Society (scheduled)
   * Waseda University (scheduled)
-  * Asian Meetings of Econometric Society (scheduled)
+  * [Asian Meetings of Econometric Society](https://ames.curtin.edu.my/)
   * [Computing in Economics and Finance](https://comp-econ.org/CEF_2021/) 
   * [Midwest Economic Association](http://mea.grinnell.edu/) 
   * [15th Macroeconomic Conference for Young Economists](http://www.macro.kier.kyoto-u.ac.jp/20210216.pdf)
@@ -79,7 +79,7 @@ Teaching Experience:
 Grants and Awards:
 ======
 * [Moriguchi Prize](https://www.iser.osaka-u.ac.jp/moriguchi/moriguchi_en.html), 2020.
-* Nakajima Foundation, 2015
+* Nakajima Foundation, 2015 [link only in Japanese](http://www.nakajimafound.or.jp/)
 
 Software:
 ======
