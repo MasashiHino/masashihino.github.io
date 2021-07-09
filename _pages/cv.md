@@ -32,10 +32,11 @@ Research Papers:
 * **Work in Progress**
   * *Interest Rate Elasticity of Aggregate Durables and Life-cycle*
   
-Presentations: 
+Presentations: Both Seminars and Conferences
 ======
 (after entering the Ph.D. program and excluding internal presenations)
 * 2021 
+  * Tohoku University (scheduled)
   * European Meetings of Econometric Society (scheduled)
   * Waseda University (scheduled)
   * [Asian Meetings of Econometric Society](https://ames.curtin.edu.my/)
