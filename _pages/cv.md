@@ -28,7 +28,7 @@ Research Papers:
 ======
 * **Working Papers**
 
-  * ***[A Model of Anticipated Consumption Tax Changes](/files/Hino_CT_Irr_paper_2021Jan.pdf)*** (**job market paper**)
+  * ***[A Model of Anticipated Consumption Tax Changes](/files/Hino_CT_Irr_paper_2021Jan.pdf)*** (**job market paper**, revising)
 * **Work in Progress**
   * *Interest Rate Elasticity of Aggregate Durables and Life-cycle*
   
