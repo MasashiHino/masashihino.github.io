@@ -38,7 +38,7 @@ Presentations: Both Seminars and Conferences
 * 2021 
   * Tohoku University (scheduled)
   * European Meetings of Econometric Society (scheduled)
-  * Waseda University (scheduled)
+  * Waseda University
   * [Asian Meetings of Econometric Society](https://ames.curtin.edu.my/)
   * [Computing in Economics and Finance](https://comp-econ.org/CEF_2021/) 
   * [Midwest Economic Association](http://mea.grinnell.edu/) 
