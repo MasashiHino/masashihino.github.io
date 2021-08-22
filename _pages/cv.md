@@ -35,8 +35,11 @@ Research Papers:
 Presentations: Both Seminars and Conferences
 ======
 (after entering the Ph.D. program and excluding internal presenations)
+* 2022
+  * AEA Annual Meetings 
 * 2021 
   * Tohoku University (scheduled)
+  * GRIPS (scheduled)
   * European Meetings of Econometric Society (scheduled)
   * Waseda University
   * [Asian Meetings of Econometric Society](https://ames.curtin.edu.my/)
