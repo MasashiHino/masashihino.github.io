@@ -36,7 +36,7 @@ Presentations: Both Seminars and Conferences
 ======
 (after entering the Ph.D. program and excluding internal presenations)
 * 2022
-  * AEA Annual Meetings 
+  * AEA Annual Meetings (scheduled)
 * 2021 
   * Tohoku University (scheduled)
   * GRIPS (scheduled)
