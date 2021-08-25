@@ -40,8 +40,8 @@ Presentations: Both Seminars and Conferences
 * 2021 
   * Tohoku University (scheduled)
   * GRIPS (scheduled)
-  * European Meetings of Econometric Society (scheduled)
-  * Waseda University
+  * [European Meetings of Econometric Society](https://eea-esem-2021.org/) 
+  * [Waseda University](http://winpec.sakura.ne.jp/Winpec_Workshop_Calendar/seminars/view/51)
   * [Asian Meetings of Econometric Society](https://ames.curtin.edu.my/)
   * [Computing in Economics and Finance](https://comp-econ.org/CEF_2021/) 
   * [Midwest Economic Association](http://mea.grinnell.edu/) 
