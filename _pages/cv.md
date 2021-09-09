@@ -82,6 +82,7 @@ Teaching Experience:
     
 Grants and Awards:
 ======
+* JSPS Grant-in-Aid for Research Activity Start-up
 * [Moriguchi Prize](https://www.iser.osaka-u.ac.jp/moriguchi/moriguchi_en.html), 2020.
 * Nakajima Foundation, 2015 [link only in Japanese](http://www.nakajimafound.or.jp/)
 
