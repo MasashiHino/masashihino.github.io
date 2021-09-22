@@ -17,7 +17,6 @@ date: 2021-04-01
 
 このページは一橋大学における『基礎マクロ経済学』で利用しているスライドをまとめているページです．
 
-This page is for "Introductory Macroeconomics" at Hitotsubashi Univ written in Japanese.
 
 注意：
 * 授業時間(google classroomで投稿される時間)まではスライドを微調整したりします
@@ -26,7 +25,7 @@ This page is for "Introductory Macroeconomics" at Hitotsubashi Univ written in J
 # 重要事項
 
 
-# 授業予定 (仮)  
+# 授業予定とスライド一覧  
 
 * week 1. [イントロ](https://masashihino.github.io/files/teaching/intro_macro/1intro/intro.pdf)，[数学のレビュー](https://masashihino.github.io/files/teaching/intro_macro/2math/math.pdf)   
 * week 2. [マクロ統計](https://masashihino.github.io/files/teaching/intro_macro/3macro_stat/macro_stats.pdf)
