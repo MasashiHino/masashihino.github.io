@@ -25,7 +25,7 @@ date: 2021-04-01
 # 重要事項
 
 
-# 授業予定とスライド一覧  
+# 授業予定(仮)とスライド一覧  
 
 * week 1. [イントロ](https://masashihino.github.io/files/teaching/intro_macro/1intro/intro.pdf)，[数学のレビュー](https://masashihino.github.io/files/teaching/intro_macro/2math/math.pdf)   
 * week 2. [マクロ統計](https://masashihino.github.io/files/teaching/intro_macro/3macro_stat/macro_stats.pdf)
