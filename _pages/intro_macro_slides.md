@@ -39,8 +39,9 @@ date: 2021-04-01
 * week 10. [貨幣](https://masashihino.github.io/files/teaching/intro_macro/9money/money_prices.pdf) 
 * week 11. [静学的なIS-LMおよび動学的なIS-LM(簡単なニューケインジアン)](https://masashihino.github.io/files/teaching/intro_macro/10ISLM/IS-LM.pdf)
 * week 12. IS-LMおよび簡単なニューケインジアン(続)
-* week 13. AD-ASおよび簡単なニューケインジアン
-* week 14. 進んだ経済政策議論 (最適金融政策，時間非整合性，コミットメント)
+* week 13. [AD-ASおよび簡単なニューケインジアン](https://masashihino.github.io/files/teaching/intro_macro/11ADAS/AD-AS.pdf)
+* week 14. 国際マクロ
+* week 15. 進んだ経済政策議論 (最適金融政策，時間非整合性，コミットメント)
 * Time permitting... 疫学マクロモデル(SIRモデル等)
  
 
