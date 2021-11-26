@@ -41,8 +41,8 @@ date: 2021-04-01
 * week 12. IS-LMおよび簡単なニューケインジアン(続)
 * week 13. [AD-ASおよび簡単なニューケインジアン](https://masashihino.github.io/files/teaching/intro_macro/11ADAS/AD-AS.pdf)
 * week 14. [国際マクロ：国際取引のあるIS-LM](https://masashihino.github.io/files/teaching/intro_macro/12international/international.pdf)
-* week 15. 進んだ経済政策議論 (最適金融政策，時間非整合性，コミットメント)
-* Time permitting... 疫学マクロモデル(SIRモデル等)
+* week 15. [進んだ経済政策議論 (最適金融政策，時間非整合性，コミットメント)](https://masashihino.github.io/files/teaching/intro_macro/13advanced_policy/policy.pdf)
+* Time permitting... [疫学マクロモデル(SIRモデル等)](https://masashihino.github.io/files/teaching/intro_macro/14SIR_macro/covid.pdf)
  
 
 
