@@ -41,13 +41,17 @@ date: 2021-04-01
   * 練習問題(一般均衡) 
 * week 7. 均衡：(続)
 * week 8. [経済成長: ソローモデル](https://masashihino.github.io/files/teaching/intro_macro/8solow/solow.pdf)
+  * 練習問題(経済成長) 
 * week 9. 経済成長: (続) 
 * week 10. [貨幣](https://masashihino.github.io/files/teaching/intro_macro/9money/money_prices.pdf) 
 * week 11. [静学的なIS-LMおよび動学的なIS-LM(簡単なニューケインジアン)](https://masashihino.github.io/files/teaching/intro_macro/10ISLM/IS-LM.pdf)
+  * 練習問題(IS-LM)
 * week 12. IS-LMおよび簡単なニューケインジアン(続)
 * week 13. [AD-ASおよび簡単なニューケインジアン](https://masashihino.github.io/files/teaching/intro_macro/11ADAS/AD-AS.pdf)
+  * 練習問題(AD-AS) 
 * week 14. [国際マクロ：国際取引のあるIS-LM](https://masashihino.github.io/files/teaching/intro_macro/12international/international.pdf)
 * week 15. [進んだ経済政策議論 (最適金融政策，時間非整合性，コミットメント)](https://masashihino.github.io/files/teaching/intro_macro/13advanced_policy/policy.pdf)
+  * 練習問題(進んだ経済政策議論)
 * Time permitting... [疫学マクロモデル(SIRモデル等)](https://masashihino.github.io/files/teaching/intro_macro/14SIR_macro/covid.pdf)
  
 
