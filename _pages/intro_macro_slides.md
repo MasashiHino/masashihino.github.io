@@ -2,7 +2,7 @@
 title: "基礎マクロ"
 collection: teaching
 layout: archive
-permalink: /intro_macro/slide
+permalink: /intro_macro/slides
 author_profile: true
 redirect_from:
   - /macro/slides
