@@ -31,7 +31,7 @@ Research Papers:
 ======
 * **Working Papers**
 
-  * *[A Model of Anticipated Consumption Tax Changes](/files/Hino_CT_Irr_paper_2021Jan.pdf)* (job market paper, updating)
+  * *A Model of Anticipated Consumption Tax Changes* (job market paper, updating)
   
   
 * **Work in Progress**
