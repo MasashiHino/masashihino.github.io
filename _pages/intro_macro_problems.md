@@ -34,7 +34,7 @@ date: 2021-04-01
 * week 5. [練習問題(企業投資)](https://masashihino.github.io/files/teaching/intro_macro/6investment/problem_investment.pdf)
 * week 6. [練習問題(一般均衡・リスクと意思決定)](https://masashihino.github.io/files/teaching/intro_macro/7GE/problem_GE.pdf)
 * week 7. (続)
-* week 8. [練習問題(経済成長)] (https://masashihino.github.io/files/teaching/intro_macro/8solow/problem_solow.pdf)
+* week 8. [練習問題(経済成長)](https://masashihino.github.io/files/teaching/intro_macro/8solow/problem_solow.pdf)
 * week 9. (続) 
 * week 10. 貨幣(練習問題なし)
 * week 11. [練習問題(IS-LM)](https://masashihino.github.io/files/teaching/intro_macro/10ISLM/IS-LM_problem.pdf)
