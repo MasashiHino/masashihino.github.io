@@ -15,17 +15,10 @@ date: 2021-04-01
 {% include base_path %}
 
 
-このページは一橋大学における『基礎マクロ経済学』で利用しているスライドをまとめているページです．
+このページは一橋大学における『基礎マクロ経済学』で配布している練習問題一覧です。
+（※授業ではこの資料は自習資料として配布しています。授業レベルとは違いがあります）
 
-
-注意：
-* 授業時間(google classroomで投稿される時間)まではスライドを微調整したりします
-* 授業時間以降はスライドを調整しないようにします
-
-# 重要事項
-
-
-# 授業予定(仮)とスライド一覧  
+# 練習問題一覧  
 
 * week 1. [練習問題(数学)](https://masashihino.github.io/files/teaching/intro_macro/2math/problem_math.pdf)    
 * week 2. [練習問題(マクロ統計)](https://masashihino.github.io/files/teaching/intro_macro/3macro_stat/macro_stats_problem.pdf)
@@ -42,6 +35,5 @@ date: 2021-04-01
 * week 13. [練習問題(AD-AS，独占，硬直価格)](https://masashihino.github.io/files/teaching/intro_macro/11ADAS/AD-AS_problem.pdf) 
 * week 14. 国際マクロ：国際取引のあるIS-LM(練習問題なし)
 * week 15. 練習問題(進んだ経済政策議論)
-* Time permitting... [疫学マクロモデル(SIRモデル等)](https://masashihino.github.io/files/teaching/intro_macro/14SIR_macro/covid.pdf)
  
 
