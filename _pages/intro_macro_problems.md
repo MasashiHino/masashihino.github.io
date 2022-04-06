@@ -2,10 +2,10 @@
 title: "基礎マクロ"
 collection: teaching
 layout: archive
-permalink: /intro_macro/problems
+permalink: /intro_macro/problemsets
 author_profile: true
 redirect_from:
-  - /macro/problems
+  - /macro/problemsets
 venue: "Hitotsubashi Univ, Department of Economics"
 date: 2021-04-01
 ---
