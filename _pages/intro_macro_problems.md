@@ -1,5 +1,5 @@
 ---
-title: "基礎マクロ"
+title: "マクロ練習問題"
 collection: teaching
 layout: archive
 permalink: /intro_macro/problemsets
