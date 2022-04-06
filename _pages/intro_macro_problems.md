@@ -27,7 +27,7 @@ date: 2021-04-01
 
 # 授業予定(仮)とスライド一覧  
 
-* week 1. [練習問題(数学)](https://github.com/MasashiHino/masashihino.github.io/blob/8edde8cf18d41fd9db0709d15443080e78451b18/files/teaching/intro_macro/2math/problem_math.pdf)    
+* week 1. [練習問題(数学)](https://masashihino.github.io/files/teaching/intro_macro/2math/problem_math.pdf)    
 * week 2. [練習問題(マクロ統計)]
 * week 3. 練習問題(家計消費)
 * week 4. 練習問題(消費と余暇・労働)
