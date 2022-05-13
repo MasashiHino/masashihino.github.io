@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "他大の修士課程に進学する学部生が気を付けると良いと思うこと(経済学)"
-permalink: /posts/graduateschool
+%permalink: /posts/graduateschool
 author_profile: true
 ---
 
