@@ -23,10 +23,10 @@ date: 2021-04-01
 
 * week 1. [練習問題(数学)](https://masashihino.github.io/files/teaching/intro_macro/2math/2_problem_math.pdf)    
 * week 2. [練習問題(マクロ統計)](https://masashihino.github.io/files/teaching/intro_macro/3macro_stat/3_problem_macro_stats.pdf)
-* week 3. [練習問題(家計消費：基礎編)](https://masashihino.github.io/files/teaching/intro_macro/4consumption/4_problem_consumption.pdf), [練習問題(家計消費：応用編)](https://masashihino.github.io/files/teaching/intro_macro/4consumption/4_problem_consumption_advanced.pdf)
+* week 3. [練習問題(家計消費：基礎編)](https://masashihino.github.io/files/teaching/intro_macro/4consumption/4_problem_consumption.pdf),  [練習問題(家計消費：応用編)](https://masashihino.github.io/files/teaching/intro_macro/4consumption/4_problem_consumption_advanced.pdf)
 * week 4. [練習問題(消費と余暇・労働)](https://masashihino.github.io/files/teaching/intro_macro/5labor/5_problem_labor.pdf)
 * week 5. [練習問題(企業投資)](https://masashihino.github.io/files/teaching/intro_macro/6investment/6_problem_investment.pdf)
-* week 6. [練習問題(一般均衡)](https://masashihino.github.io/files/teaching/intro_macro/7GE/7_problem_GE.pdf), [練習問題(リスクと意思決定・資産価格理論入門)](https://masashihino.github.io/files/teaching/intro_macro/7GE/7_problem_AssetPricing.pdf)
+* week 6. [練習問題(一般均衡)](https://masashihino.github.io/files/teaching/intro_macro/7GE/7_problem_GE.pdf),  [練習問題(リスクと意思決定・資産価格理論入門)](https://masashihino.github.io/files/teaching/intro_macro/7GE/7_problem_AssetPricing.pdf)
 * week 7. (続)
 * week 8. [練習問題(経済成長)](https://masashihino.github.io/files/teaching/intro_macro/8solow/8_problem_solow.pdf)
 * week 9. (続) 
