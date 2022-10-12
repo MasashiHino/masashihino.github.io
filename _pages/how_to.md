@@ -18,12 +18,12 @@ For whether going to Ph.D. program
 
 [国民経済雑誌の大学院進学特集](https://da.lib.kobe-u.ac.jp/da/kernel/search/002026778998/?lang=0&cate_schema=30000&mode=0)
 一例：(分野を問わないアドバイスのものを選びました)
-  *[大学院に行って経済学者になる](https://da.lib.kobe-u.ac.jp/da/kernel/E0041954/E0041954.pdf) by Prof. Miyagawa
-  *[経済学PhD留学について (<特集>大学院で経済学を学
+  * [大学院に行って経済学者になる](https://da.lib.kobe-u.ac.jp/da/kernel/E0041954/E0041954.pdf) by Prof. Miyagawa
+  * [経済学PhD留学について (<特集>大学院で経済学を学
 ぶ)](https://da.lib.kobe-u.ac.jp/da/kernel/E0041959/E0041959.pdf) by Prof. Yamasaki
-  *[経済学は実践に役に立つ (<特集>大学院で経済学を
+  * [経済学は実践に役に立つ (<特集>大学院で経済学を
 学ぶ)](https://da.lib.kobe-u.ac.jp/da/kernel/E0041952/E0041952.pdf) by Prof. Otsuka
-  *[経済学分野における海外大学院留学のススメ : 実践
+  * [経済学分野における海外大学院留学のススメ : 実践
 的アドバイス (<特集>大学院で経済学を学ぶ)](https://da.lib.kobe-u.ac.jp/da/kernel/E0041958/E0041958.pdf)
 
 
