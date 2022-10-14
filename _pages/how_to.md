@@ -13,6 +13,21 @@ This page collects useful lessons & advice for research in Economics.
 
 Order of links is purely random
 
+For whether going to Ph.D. program
+=====
+
+[国民経済雑誌の大学院進学特集](https://da.lib.kobe-u.ac.jp/da/kernel/search/002026778998/?lang=0&cate_schema=30000&mode=0)
+一例：(分野を問わないアドバイスのものを選びました)
+  * [大学院に行って経済学者になる(<特集>大学院で経済学を学
+ぶ)](https://da.lib.kobe-u.ac.jp/da/kernel/E0041954/E0041954.pdf) by Prof. Miyagawa
+  * [経済学PhD留学について (<特集>大学院で経済学を学
+ぶ)](https://da.lib.kobe-u.ac.jp/da/kernel/E0041959/E0041959.pdf) by Prof. Yamasaki
+  * [経済学は実践に役に立つ (<特集>大学院で経済学を
+学ぶ)](https://da.lib.kobe-u.ac.jp/da/kernel/E0041952/E0041952.pdf) by Prof. Otsuka
+  * [経済学分野における海外大学院留学のススメ : 実践
+的アドバイス (<特集>大学院で経済学を学ぶ)](https://da.lib.kobe-u.ac.jp/da/kernel/E0041958/E0041958.pdf)
+
+
 For Presentations:
 ======
 * ***Videos***
@@ -35,7 +50,8 @@ For Presentations:
   * [理想のプレゼン](https://sites.google.com/view/fumio-hayashis-hp/short-blogs-in-japanese/%E7%90%86%E6%83%B3%E3%81%AE%E3%83%97%E3%83%AC%E3%82%BC%E3%83%B3?authuser=0) by Prof. F. Hayashi
 * ***SNS***
   * [プレゼンのコツ](https://twitter.com/MitsuruIgami_JP/status/1273024275885285376?s=20), [プレゼンのコツ２](https://twitter.com/MitsuruIgami_JP/status/1273403649251737600?s=20), [滑舌(英語)](https://twitter.com/MitsuruIgami_JP/status/1272641120925896707?s=20), [滑舌(日本語)](https://twitter.com/MitsuruIgami_JP/status/1272289974088609797?s=20) by Prof. Igami
-  
+  * [セミナー報告のためのtips (<特集>大学院で経済学
+を学ぶ)](https://da.lib.kobe-u.ac.jp/da/kernel/E0041956/E0041956.pdf) By Prof. Shimizu
 
 For Writings:
 ======
@@ -50,10 +66,12 @@ For Writings:
   * [論文の書き方について](/files/how_to/howtowrite_Hayashi.pdf) by Prof. F. Hayashi
   * [いかにして英文雑誌に論文を掲載するか？(スライド)](/files/how_to/JEA2019Otsuka.pdf) by Prof. Otsuka
   * [いかにして英文雑誌に論文を掲載するか？(和論文)](https://www.jstage.jst.go.jp/article/nokei/86/2/86_179/_pdf) by Prof. Otsuka
+  * [英語での政策論文の書き方 (<特集>大学院で経済学
+を学ぶ)](https://da.lib.kobe-u.ac.jp/da/kernel/E0041957/E0041957.pdf) by Prof. Miyazaki
 * ***From Other Disciplines***
   * [Novelist Cormac McCarthy’s tips on how to write a great science paper](https://www.nature.com/articles/d41586-019-02918-5) 
   * [Writing Mathematical Papers in English](/files/how_to/1995-ems-trzeciak-writing_mathematical_papers_in_english__a_practical_guide.pdf)
-
+  
 For Latex Formatting (including Beamer)
 ======
 * ***Mainly for Beamer*** 
