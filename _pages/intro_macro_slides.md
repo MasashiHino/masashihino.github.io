@@ -28,30 +28,22 @@ date: 2021-04-01
 # 授業予定(仮)とスライド一覧  
 
 * week 1. イントロ(講義ページのみでの配布), [数学のレビュー](https://masashihino.github.io/files/teaching/intro_macro/2math/math.pdf)
-  * 練習問題(数学)    
+    
 * week 2. [マクロ統計](https://masashihino.github.io/files/teaching/intro_macro/3macro_stat/macro_stats.pdf)
-  * 練習問題(マクロ統計)
+  
 * week 3. [家計: 消費と貯蓄](https://masashihino.github.io/files/teaching/intro_macro/4consumption/consumption_saving.pdf)
-  * 練習問題(家計消費)
 * week 4. [家計：消費と余暇・労働](https://masashihino.github.io/files/teaching/intro_macro/5labor/labor.pdf)
-  * 練習問題(消費と余暇・労働)
-* week 5. [企業：投資](https://masashihino.github.io/files/teaching/intro_macro/6investment/investment.pdf) <span style="color: blue; ">(Oct/23 11pの1次同次の定義のタイポを修正)</span>
-  * 練習問題(投資) 
+* week 5. [企業：投資](https://masashihino.github.io/files/teaching/intro_macro/6investment/investment.pdf) 
 * week 6. 均衡: (1)[GE](https://masashihino.github.io/files/teaching/intro_macro/7GE/GE.pdf), (2)[景気循環入門](https://masashihino.github.io/files/teaching/intro_macro/7GE/RBC.pdf), (3)[資産価格理論入門](https://masashihino.github.io/files/teaching/intro_macro/7GE/AssetPricing.pdf)
-  * 練習問題(一般均衡) 
 * week 7. 均衡：(続)
 * week 8. [経済成長: ソローモデル](https://masashihino.github.io/files/teaching/intro_macro/8solow/solow.pdf)
-  * 練習問題(経済成長) 
 * week 9. 経済成長: (続) 
 * week 10. [貨幣](https://masashihino.github.io/files/teaching/intro_macro/9money/money_prices.pdf) 
 * week 11. [静学的なIS-LMおよび動学的なIS-LM(簡単なニューケインジアン)](https://masashihino.github.io/files/teaching/intro_macro/10ISLM/IS-LM.pdf)
-  * 練習問題(IS-LM)
 * week 12. IS-LMおよび簡単なニューケインジアン(続)
 * week 13. [AD-ASおよび簡単なニューケインジアン](https://masashihino.github.io/files/teaching/intro_macro/11ADAS/AD-AS.pdf)
-  * 練習問題(AD-AS) 
 * week 14. [国際マクロ：国際取引のあるIS-LM](https://masashihino.github.io/files/teaching/intro_macro/12international/international.pdf)
 * week 15. [進んだ経済政策議論 (最適金融政策，時間非整合性，コミットメント)](https://masashihino.github.io/files/teaching/intro_macro/13advanced_policy/policy.pdf)
-  * 練習問題(進んだ経済政策議論)
 * Time permitting... [疫学マクロモデル(SIRモデル等)](https://masashihino.github.io/files/teaching/intro_macro/14SIR_macro/covid.pdf)
  
 
