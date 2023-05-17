@@ -28,9 +28,7 @@ date: 2021-04-01
 # 授業予定(仮)とスライド一覧  
 
 * week 1. イントロ(講義ページのみでの配布), [数学のレビュー](https://masashihino.github.io/files/teaching/intro_macro/2math/math.pdf)
-    
 * week 2. [マクロ統計](https://masashihino.github.io/files/teaching/intro_macro/3macro_stat/macro_stats.pdf)
-  
 * week 3. [家計: 消費と貯蓄](https://masashihino.github.io/files/teaching/intro_macro/4consumption/consumption_saving.pdf)
 * week 4. [家計：消費と余暇・労働](https://masashihino.github.io/files/teaching/intro_macro/5labor/labor.pdf)
 * week 5. [企業：投資](https://masashihino.github.io/files/teaching/intro_macro/6investment/investment.pdf) 
