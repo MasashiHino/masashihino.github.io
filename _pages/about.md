@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor (講師 in Japanese) at Hitotsubashi University (一橋大学). 
+I am an Postdoc Reasearcher at The University of Tokyo. 
 
 Research Interests:
 ======
-Macroeconomics, Consumption (Durables), Computational Economics, Fiscal Policy.
+Macroeconomics, Consumption (Durables), Heterogenous-Agent Models, Computational Economics, Fiscal Policy.
 
 Contact:
 ======
