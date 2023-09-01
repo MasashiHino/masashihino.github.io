@@ -14,8 +14,12 @@ redirect_from:
 <!-- 
 Current Position: \
 ======\
-* Assistant Professor,  2021 April-, [Hitotsubashi University, Graduate School of Economics](https://www.econ.hit-u.ac.jp/eng/index.html)\
+* Posdoc Researcher, 2023 September-, The University of Tokyo, Department of Economics 
 -->
+
+Past Position: 
+=====
+* Assistant Professor,  2021 April-2023 August, [Hitotsubashi University, Graduate School of Economics](https://www.econ.hit-u.ac.jp/eng/index.html).
 
 Education:
 ======
