@@ -16,7 +16,7 @@ Macroeconomics, Consumption (Durables), Heterogenous-Agent Models, Computational
 
 Contact:
 ======
-* **Email** (Hitotsubashi Univ): [masashi.hino[at]r.hit-u.ac.jp](mailto:masashi.hino@r.hit-u.ac.jp)
+* **Email** (The Univ of Tokyo): [masashi-hino[at]e.u-tokyo.ac.jp](mailto:masashi-hino@e.u-tokyo.ac.jp)
 
   (※ To Hitotsubashi Students：Please use the email address above when emailing me about my classes.)
 
