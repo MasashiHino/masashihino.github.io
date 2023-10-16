@@ -18,7 +18,7 @@ Contact:
 ======
 * **Email** (The Univ of Tokyo): [masashi-hino[at]e.u-tokyo.ac.jp](mailto:masashi-hino@e.u-tokyo.ac.jp)
 
-  (※ To Hitotsubashi Students：Please use the email address above when emailing me about my classes.)
+  (※ To Students：Please use the email address above when emailing me about my classes)
 
 * **Email** (Permanent): [m.hino.0323[at]gmail.com](mailto:m.hino.0323@gmail.com)
 
