@@ -18,10 +18,6 @@ Contact:
 ======
 * **Email** (The Univ of Tokyo): [masashi-hino[at]e.u-tokyo.ac.jp](mailto:masashi-hino@e.u-tokyo.ac.jp)
 
-  (※ To Students：Please use the email address above when emailing me about my classes)
-
-* **Email** (Permanent): [m.hino.0323[at]gmail.com](mailto:m.hino.0323@gmail.com)
-
 
 CV:
 ======
@@ -31,15 +27,14 @@ Research Papers:
 ======
 * **Working Papers**
 
-  * *A Model of Anticipated Consumption Tax Changes* (job market paper, updating)
+  * *A Model of Anticipated Consumption Tax Changes*
+  * Demand For Fiscal Policy in an Aging Country*
   
-  
-* **Work in Progress**
-  * *Interest Rate Elasticity of Aggregate Durables and Life-cycle*
+
 
 Education:
 =====
-* Ph.D. in Economics (Expected in 2021). **The Ohio State University**
+* Ph.D. in Economics in 2021. **The Ohio State University**
 * M.A. in Economics in 2014. **Kyoto University** (Japan)
 * B.A. in Economics in 2012. **Doshisha University** (Japan)
 
