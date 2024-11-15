@@ -74,6 +74,7 @@ Software:
   * MEX compilation
 * LATEX
 
+<!---
 References:
 ======
 * Professor **Julia Thomas** (chair): [thomas.2108[at]osu.edu](mailto:thomas.2108@osu.edu)
@@ -82,4 +83,4 @@ References:
 
 * Professor **Pok-sang Lam**: [lam.1[at]osu.edu](mailto:lam.1@osu.edu)
 
-<!--- <span style="color: blue; ">**final update in 2021 Jan**</span>  -->
+ <span style="color: blue; ">**final update in 2021 Jan**</span>  -->
