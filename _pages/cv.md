@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-// [pdf version of cv](/files/Hino_CV.pdf)
+# [pdf version of cv](/files/Hino_CV.pdf)
 
 <!-- 
 Current Position: \
