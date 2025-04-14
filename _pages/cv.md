@@ -46,8 +46,9 @@ Presentations: Both Seminars and Conferences
 Teaching Experience:
 ======
 * The University of Tokyo, Graduate School of Public Policy
+  * 2024 Spring: Development Economics: Macroeconomic Approach
   * 2023 Autumn: Macroeconomics
-  * 2024 (scheduled): Development Economics: Macroeconomic Approach
+  
 * Hitotsubashi University 
   * 2021 Spring- 2023 Spring: Introductory Macroeconomics (Mainly for Sophomore)
 * The Ohio State University (Graduate Teaching Assistant)
