@@ -28,7 +28,7 @@ Research Papers:
 * **Working Papers**
 
   * *A Model of Anticipated Consumption Tax Changes*
-  * [*Support for Fiscal Consolidation in a Highly-Indebted Country*](files/Support_for_Fiscal_Consolidation.pdf) with Takuji Fueki, Mitsuru Katagiri, Munechika Katayama and Taisuke Nakata
+  * [*Support for Fiscal Consolidation in a Highly-Indebted Country*](/files/Support_for_Fiscal_Consolidation.pdf) with Takuji Fueki, Mitsuru Katagiri, Munechika Katayama and Taisuke Nakata
 
 * **Work in Progress**
   * *The Perceived Government Budget Constraint* with Takuji Fueki, Mitsuru Katagiri, Munechika Katayama and Taisuke Nakata
