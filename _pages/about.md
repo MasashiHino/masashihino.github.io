@@ -30,6 +30,9 @@ Research Papers:
   * *A Model of Anticipated Consumption Tax Changes*
   * [*Demand For Fiscal Policy in an Aging Country*](files/Support_for_Fiscal_Consolidation.pdf)
 
+* **Work in Progress**
+  * *The Perceived Government Budget Constraint*
+  * *Housing Loan Type Choice and Monetary Policy*
 
 Education:
 =====
