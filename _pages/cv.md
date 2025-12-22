@@ -33,9 +33,10 @@ Research Papers:
 * **Working Papers**
 
   * ***A Model of Anticipated Consumption Tax Changes*** 
-  * [***Demand for Fiscal Policy in an Aging Country***](https://masashihino.github.io/files/Demand_for_Fiscal_Policy_in_an_Aging_Country_cigs.pdf)
+  * [***Support for Fiscal Consolidation in a Highly-Indebted Country***](/files/Support_for_Fiscal_Consolidation.pdf) with Takuji Fueki, Munechika Katayama, and Taisuke Nakata
 * **Work in Progress**
-  * *Interest Rate Elasticity of Aggregate Durables and Life-cycle*
+  * *The Perceived Government Budget Constraint,* with Takuji Fueki, Mitsuru Katagiri, Munechika Katayama, and Taisuke Nakata
+  * *Housing Loan Type Choice and Monetary Policy,* with Young In Lee and Ryota Ogaki
   
 Presentations: Both Seminars and Conferences
 ======
