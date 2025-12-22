@@ -21,14 +21,14 @@ Contact:
 
 CV:
 ======
-([pdf version](/files/Hino_CV.pdf)), ([html version](https://masashihino.github.io/cv/))
+([pdf version](/files/CV_HINO.pdf)), ([html version](https://masashihino.github.io/cv/))
 
 Research Papers:
 ======
 * **Working Papers**
 
   * *A Model of Anticipated Consumption Tax Changes*
-  * [*Demand For Fiscal Policy in an Aging Country*](files/Demand_for_Fiscal_Policy_in_an_Aging_Country_cigs.pdf)
+  * [*Demand For Fiscal Policy in an Aging Country*](files/Support_for_Fiscal_Consolidation.pdf)
 
 
 Education:
