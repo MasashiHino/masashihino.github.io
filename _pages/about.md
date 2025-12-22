@@ -21,7 +21,7 @@ Contact:
 
 CV:
 ======
-([pdf version](/files/CV_HINO.pdf)), ([html version](https://masashihino.github.io/cv/))
+([pdf version](files/CV_HINO.pdf)), ([html version](https://masashihino.github.io/cv/))
 
 Research Papers:
 ======
