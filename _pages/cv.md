@@ -14,12 +14,13 @@ redirect_from:
 <!-- 
 Current Position: \
 ======\
-* Posdoc Researcher, 2023 September-, The University of Tokyo, Department of Economics 
+* Assistant Professor, 2026 October-, Kobe University, Department of Economics 
 -->
 
 Past Position: 
 =====
-* Assistant Professor,  2021 April-2023 August, [Hitotsubashi University, Graduate School of Economics](https://www.econ.hit-u.ac.jp/eng/index.html).
+* Posdoc Researcher, 2023 September-2026 Octobe, The University of Tokyo, Department of Economics 
+* Assistant Professor,  2021 April-2023 August, Hitotsubashi University, Graduate School of Economics
 
 Education:
 ======
@@ -34,18 +35,22 @@ Research Papers:
 
   * ***A Model of Anticipated Consumption Tax Changes*** 
   * [***Support for Fiscal Consolidation in a Highly-Indebted Country***](/files/Support_for_Fiscal_Consolidation.pdf) with Takuji Fueki, Munechika Katayama, and Taisuke Nakata
+  * ***The Perceived Government Budget Constraint,*** with Takuji Fueki, Mitsuru Katagiri, Munechika Katayama, and Taisuke Nakata
 * **Work in Progress**
-  * *The Perceived Government Budget Constraint,* with Takuji Fueki, Mitsuru Katagiri, Munechika Katayama, and Taisuke Nakata
+ 
   * *Housing Loan Type Choice and Monetary Policy,* with Young In Lee and Ryota Ogaki
   
 Presentations: Both Seminars and Conferences
 ======
 (after entering the Ph.D. program and excluding internal presenations)
 
-2025 Advanced Macro Workshop 2024 CIGS End of Year Macroeconomics Conference (scheduled), SWET, 2023 Kyoto University 2022 AEA Annual Meetings, 2021 Tohoku University, GRIPS,[European Meetings of Econometric Society](https://eea-esem-2021.org/) ,[Waseda University](http://winpec.sakura.ne.jp/Winpec_Workshop_Calendar/seminars/view/51), [Asian Meetings of Econometric Society](https://ames.curtin.edu.my/), [Computing in Economics and Finance](https://comp-econ.org/CEF_2021/) ,[Midwest Economic Association](http://mea.grinnell.edu/) , [15th Macroeconomic Conference for Young Economists](http://www.macro.kier.kyoto-u.ac.jp/20210216.pdf) 2020 [Macro Conference](https://ies.keio.ac.jp/en/events/13319/), [ISER Moriguchi Prize Presentations](https://www.iser.osaka-u.ac.jp/seminar/index.html) , Hitotsubashi University, [Happy Hour Seminar, Virtual](https://sites.google.com/view/happyhourseminar/home) , <!--- * Hitotsubashi Univ, Virtual--> [Summer Workshop on Economic Theory, Virtual](https://sites.google.com/view/swetotaruhokudai/swet2020/%E8%B2%A1%E6%94%BF),2019 [DSGE workshop, Senshu University](https://www.kengonutahara.com/dsge-workshop), Macro Lunch Workshop, Hitotsubashi University,[Macroeconomic Workshop, Kyoto University](https://sites.google.com/site/kyotomacroecon/), [Rokko Forum, Kobe University](http://www.econ.kobe-u.ac.jp/activity/seminar/rokko/rf2019.html) 2018 Summer Workshop on Economic Thoery, Otaru Commerce University,  [Rokko Forum, Kobe University](http://www.econ.kobe-u.ac.jp/activity/seminar/rokko/rf2018.html)
+2026 Workshop of the East and South-East Asian Macroeconomic Society (WESEAMS), Singapore Economic Review Conference 2025 Advanced Macro Workshop 2024 CIGS End of Year Macroeconomics Conference (scheduled), SWET, 2023 Kyoto University 2022 AEA Annual Meetings, 2021 Tohoku University, GRIPS,[European Meetings of Econometric Society](https://eea-esem-2021.org/) ,[Waseda University](http://winpec.sakura.ne.jp/Winpec_Workshop_Calendar/seminars/view/51), [Asian Meetings of Econometric Society](https://ames.curtin.edu.my/), [Computing in Economics and Finance](https://comp-econ.org/CEF_2021/) ,[Midwest Economic Association](http://mea.grinnell.edu/) , [15th Macroeconomic Conference for Young Economists](http://www.macro.kier.kyoto-u.ac.jp/20210216.pdf) 2020 [Macro Conference](https://ies.keio.ac.jp/en/events/13319/), [ISER Moriguchi Prize Presentations](https://www.iser.osaka-u.ac.jp/seminar/index.html) , Hitotsubashi University, [Happy Hour Seminar, Virtual](https://sites.google.com/view/happyhourseminar/home) , <!--- * Hitotsubashi Univ, Virtual--> [Summer Workshop on Economic Theory, Virtual](https://sites.google.com/view/swetotaruhokudai/swet2020/%E8%B2%A1%E6%94%BF),2019 [DSGE workshop, Senshu University](https://www.kengonutahara.com/dsge-workshop), Macro Lunch Workshop, Hitotsubashi University,[Macroeconomic Workshop, Kyoto University](https://sites.google.com/site/kyotomacroecon/), [Rokko Forum, Kobe University](http://www.econ.kobe-u.ac.jp/activity/seminar/rokko/rf2019.html) 2018 Summer Workshop on Economic Thoery, Otaru Commerce University,  [Rokko Forum, Kobe University](http://www.econ.kobe-u.ac.jp/activity/seminar/rokko/rf2018.html)
   
 Teaching Experience:
 ======
+* Kobe University,
+  * 2026 Autumn: Intermediate Macroeconomics (Master-level)  
+
 * The University of Tokyo, Graduate School of Public Policy
   * 2024 Spring: Development Economics: Macroeconomic Approach
   * 2023 Autumn: Macroeconomics
