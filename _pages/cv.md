@@ -48,7 +48,7 @@ Presentations: Both Seminars and Conferences
   
 Teaching Experience:
 ======
-* Kobe University,
+* Kobe University
   * 2026 Autumn: Intermediate Macroeconomics (Master-level)  
 
 * The University of Tokyo, Graduate School of Public Policy
