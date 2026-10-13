@@ -8,15 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am an Postdoc Reasearcher at The University of Tokyo. 
+I am an Assistant Prof at Kobe University. 
 
-Research Interests:
-======
-Macroeconomics, Consumption (Durables), Heterogenous-Agent Models, Computational Economics, Fiscal Policy.
 
 Contact:
 ======
-* **Email** (The Univ of Tokyo): [masashi-hino[at]e.u-tokyo.ac.jp](mailto:masashi-hino@e.u-tokyo.ac.jp)
+* **Email** (Kobe University): [hino[at]econ.kobe-u.ac.jp](mailto:hino@econ.kobe-u.ac.jp)
 
 
 CV:
@@ -29,10 +26,11 @@ Research Papers:
 
   * *A Model of Anticipated Consumption Tax Changes*
   * [*Support for Fiscal Consolidation in a Highly-Indebted Country*](/files/Support_for_Fiscal_Consolidation.pdf) with Takuji Fueki, Mitsuru Katagiri, Munechika Katayama and Taisuke Nakata
+  * *The Perceived Government Budget Constraint* with Takuji Fueki, Mitsuru Katagiri, Munechika Katayama and Taisuke Nakata
+ 
 
 * **Work in Progress**
-  * *The Perceived Government Budget Constraint* with Takuji Fueki, Mitsuru Katagiri, Munechika Katayama and Taisuke Nakata
-  * *Housing Loan Type Choice and Monetary Policy* with Young In Lee, and Ryota Ogaki
+   * *Housing Loan Type Choice and Monetary Policy* with Young In Lee, and Ryota Ogaki
 
 Education:
 =====
